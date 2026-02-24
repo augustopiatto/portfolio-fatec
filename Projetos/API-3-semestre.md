@@ -28,7 +28,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Liderança na definição da experiência do usuário e fluxos navegacionais**, criando wireframes no Figma que serviram como fonte única de verdade para todo o time. Esta documentação visual foi fundamental para **alinhar expectativas com o cliente**, validar requisitos de negócio e **acelerar o processo de desenvolvimento** através de um guia claro e consistente. Os protótipos evolutivos permitiram iterações rápidas baseadas em feedback, **reduzindo retrabalho em fases posteriores** do projeto.
   <br />
   <p align="center">
-    <img src="fotos/wireframe.png" alt="Wireframe">
+    <img src="assets/wireframe.png" alt="Wireframe">
   </p>
   
   A partir do design, **estruturei e refinei as user-stories** que podem ser vistas [aqui no github](https://github.com/SQLutions-FATEC/API-3-Semestre?tab=readme-ov-file#-backlogs--user-stories), estabelecendo **critérios de aceitação claros** que orientaram todo o ciclo de desenvolvimento. Esta abordagem garantiu que cada sprint entregasse valor tangível, mantendo o foco nas necessidades reais do usuário final.
@@ -41,7 +41,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Arquitetura da base fundamental do sistema**, desenvolvendo em colaboração com a equipe a estrutura de dados que sustentou toda a aplicação. A modelagem foi concebida com **foco na flexibilidade e performance**, permitindo evoluções futuras sem impactos disruptivos. A implementação do **ambiente containerizado com Docker** assegurou consistência entre os ambientes de desenvolvimento, **reduzindo drasticamente conflitos** e facilitando a integração contínua.
   <br />
   <p align="center">
-    <img src="fotos/modelagem.png" alt="Modelagem">
+    <img src="assets/modelagem.png" alt="Modelagem">
   </p>
   
   Esta base sólida permitiu que o time **concentrasse esforços na implementação de funcionalidades** em vez de resolver problemas de infraestrutura, acelerando a entrega de valor nas sprints iniciais e garantindo a **escalabilidade da solução**.
@@ -61,7 +61,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Arquitetura da stack tecnológica front-end**, selecionando bibliotecas que otimizaram desenvolvimento e performance. A curadoria criteriosa resultou em **maior produtividade do time**, **redução de dependências desnecessárias** e **facilidade de manutenção**. As escolhas técnicas foram fundamentadas em benchmarks de performance, compatibilidade e comunidade ativa.
   <br />
   <p align="center">
-    <img src="fotos/bibliotecas.png" alt="Bibliotecas">
+    <img src="assets/bibliotecas.png" alt="Bibliotecas">
   </p>
 </details>
 
@@ -72,7 +72,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Criação de design system consistente** que unificou a identidade visual em toda a aplicação. Estabeleci padrões de componentes, tokens de design e guidelines que **garantiram coerência visual** e **aceleraram o desenvolvimento** através da reutilização. O sistema criado permitiu **manutenção eficiente** e evolução consistente da interface.
   <br />
   <p align="center">
-    <img src="fotos/design-system.png" alt="Design-system">
+    <img src="assets/design-system.png" alt="Design-system">
   </p>
 </details>
 
@@ -83,7 +83,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Desenvolvimento de ferramenta estratégica de business intelligence**, criando visualizações de dados que permitiram **análise rápida e tomada de decisão informada**. Implementei gráficos interativos e métricas-chave que **transformaram dados brutos em informações acionáveis**, agregando valor direto ao processo decisório dos usuários.
   <br />
   <p align="center">
-    <img src="fotos/dashboard.png" alt="Dashboard">
+    <img src="assets/dashboard.png" alt="Dashboard">
   </p>
 </details>
 
@@ -94,7 +94,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Implementação de operações fundamentais para a gestão de dados**, desenvolvendo interfaces intuitivas para criação, edição, visualização e exclusão de registros. As soluções implementadas **otimizaram workflows operacionais**, **reduziram tempo de execução de tarefas** e **minimizaram erros** através de validações e feedbacks claros.
   <br />
   <p align="center">
-    <img src="fotos/crud.png" alt="Crud">
+    <img src="assets/crud.png" alt="Crud">
   </p>
 </details>
 </details>
@@ -113,7 +113,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Otimização de performance em grandes volumes de dados** através da implementação de paginação eficiente. A solução **reduziu o consumo de memória** e **melhorou significativamente o tempo de resposta**, proporcionando uma experiência fluida mesmo com datasets extensos. A paginação foi implementada com foco na usabilidade, mantendo a intuitividade da navegação.
   <br />
   <p align="center">
-    <img src="fotos/paginacao.png" alt="Paginacao">
+    <img src="assets/paginacao.png" alt="Paginacao">
   </p>
 </details>
 
@@ -124,7 +124,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Desenvolvimento de APIs RESTful eficientes** para recuperação e filtragem de dados. Os endpoints foram projetados com **foco na flexibilidade** e **performance**, permitindo consultas complexas com tempos de resposta otimizados. Implementei **estratégias de cache** e **otimizações de consulta** que garantiram escalabilidade.
   <br />
   <p align="center">
-    <img src="fotos/listagem.png" alt="Listagem">
+    <img src="assets/listagem.png" alt="Listagem">
   </p>
 </details>
 
@@ -135,7 +135,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Padronização do contrato de dados** entre front-end e back-end através de DTOs bem definidos. Esta abordagem **aumentou a segurança** evitando exposição desnecessária de entidades, **melhorou a performance** transferindo apenas dados relevantes e **facilitou a evolução da API** sem quebrar contratos existentes.
   <br />
   <p align="center">
-    <img src="fotos/dto.png" alt="Dto">
+    <img src="assets/dto.png" alt="Dto">
   </p>
 </details>
 
@@ -146,7 +146,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Otimização de consultas críticas** que impactavam diretamente na performance do sistema. Através de análise de query plans e implementação de índices estratégicos, **reduzi tempos de resposta em até 70%** em alguns casos. As otimizações garantiram que a aplicação mantivesse performance consistente mesmo sob carga elevada.
   <br />
   <p align="center">
-    <img src="fotos/query.png" alt="Query">
+    <img src="assets/query.png" alt="Query">
   </p>
 </details>
   
@@ -157,7 +157,7 @@ Atuei como desenvolvedor full-stack com participação estratégica em todas as 
   **Estabelecimento de convenções e boas práticas** que elevaram a qualidade do código back-end. Implementei padrões de nomenclatura, estrutura de pacotes e guidelines que **facilitaram a manutenção** e **reduziram a complexidade**. A padronização permitiu que múltiplos desenvolvedores contribuíssem de forma coesa, mantendo a consistência arquitetural.
   <br />
   <p align="center">
-    <img src="fotos/padronizacao.png" alt="Padronizacao">
+    <img src="assets/padronizacao.png" alt="Padronizacao">
   </p>
 </details>
 </details>

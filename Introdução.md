@@ -9,7 +9,7 @@ Sempre gostei da área de exatas, e durante minha infância participei de campeo
 Mudei de área para a programação web em 2020, através do bootcamp oferecido pela empresa Buser Brasil. Fiz 3 meses de curso, onde aprendi tecnologias como Vue (Javascript) e Django (Python), com o uso de Postgres no banco. Desde então tenho trabalhado com foco em front-end, aprendendo novas tecnologias e ferramentas.
 
 <p align="center">
-  <img src="fotos/foto-perfil.png" alt="Minha Foto" width="200">
+  <img src="assets/foto-perfil.png" alt="Minha Foto" width="200">
 </p>
 
 <div align = center>
