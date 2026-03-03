@@ -16,15 +16,15 @@ Durante os estudos na FATEC aprendi, principalmente, sobre tecnologias voltadas 
 </p>
 
 <div align = center>
- <a href="[https://www.linkedin.com/in/dsf21/](https://www.linkedin.com/in/augusto-piatto/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="[https://github.com/DaviSFS21](https://github.com/augustopiatto)" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/augusto-piatto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/augustopiatto" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github" target="_blank"></a>
 </div>
 
 ## Meus Principais Conhecimentos
 * Desenvolvimento:
   * Front-end: Experiência sólida utilizando `Vue`, com conhecimento em `React` - `JavasScript` / `TypeScript`.
   * Back-end: Experiência sólida utilizando `Django`, além de uso esporádico de `SpringBoot` - `Python`.
-  * Banco de Dados: Conhecimento em banco relacionais, principalmente postgres.
+  * Banco de Dados: Conhecimento em banco relacionais, principalmente `postgres`.
 
 * Metodologia Ágil (Scrum) - Product Owner:
   * Criação do Product Backlog pela metodologia Product Backlog Building (PBB);
