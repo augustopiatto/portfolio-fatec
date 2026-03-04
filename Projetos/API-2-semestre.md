@@ -138,7 +138,7 @@ A
 
 ## 🔎 Navegação entre Projetos
 
-- [1º Semestre: Calculadora Científica](https://github.com/SQLutions-FATEC/API-1-Semestre)
+- [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-1-semestre.md)
 - **2º Semestre:** Projeto Avaliador de Soft Skill
 - [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-3-semestre.md)  
 - [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-4-semestre.md)  
