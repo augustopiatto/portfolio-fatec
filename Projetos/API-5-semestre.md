@@ -1,6 +1,3 @@
-# API 5º Semestre - 01/2026
-# API 4º Semestre - 02/2025
-
 <h1 align="center">🚀 API 5º Semestre - 01/2026</h1>
 
 <p align="center">
