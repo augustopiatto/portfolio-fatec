@@ -33,9 +33,9 @@ Durante os estudos na FATEC aprendi, principalmente, sobre tecnologias voltadas 
   * Utilização das ferramentas `Jira`, `Azure Boards`.
 
 ## 📂 Meus Projetos
-* [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-1-semestre.md)
-* [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-2-semestre.md)
-* [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-3-semestre.md)
-* [4º Semestre: Radarius - Projeto de Monitoramente e resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-4-semestre.md)
-* [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-5-semestre.md)
-* [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-6-semestre.md)
+* [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
+* [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
+* [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)
+* [4º Semestre: Radarius - Projeto de Monitoramente e resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)
+* [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
+* [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)

@@ -1,4 +1,4 @@
-<h1 align="center">🚀 API 5º Semestre - 01/2026</h1>
+<h1 align="center">🚀 API 6º Semestre - 02/2026</h1>
 
 <p align="center">
   <a href="" target="_blank">
@@ -80,12 +80,12 @@ A
 
 ## 🔎 Navegação entre Projetos
 
-- [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-1-semestre.md)
-- [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-2-semestre.md)
-- [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-3-semestre.md)  
-- [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-4-semestre.md)
-- **5º Semestre:** TODO  
-- [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-6-semestre.md)  
+- [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
+- [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
+- [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)  
+- [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)
+- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
+- **6º Semestre:** TODO  
 
 ---
 

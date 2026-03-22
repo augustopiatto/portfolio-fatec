@@ -64,7 +64,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
   <br>
   <br>
   <p align="center">
-    <img src="../assets/wireframe.png" alt="Wireframe">
+    <img src="../assets/projeto-3/wireframe.png" alt="Wireframe">
   </p>
 </details>
 
@@ -75,7 +75,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
   <br>
   <br>
   <p align="center">
-    <img src="../assets/modelagem.png" alt="Modelagem">
+    <img src="../assets/projeto-3/modelagem.png" alt="Modelagem">
   </p>
 </details>
 
@@ -92,7 +92,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/bibliotecas.png" alt="Bibliotecas">
+      <img src="../assets/projeto-3/bibliotecas.png" alt="Bibliotecas">
     </p>
   </details>
   <details>
@@ -102,7 +102,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/design-system.png" alt="Design-system">
+      <img src="../assets/projeto-3/design-system.png" alt="Design-system">
     </p>
   </details>
   <details>
@@ -112,7 +112,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/dashboard.png" alt="Dashboard">
+      <img src="../assets/projeto-3/dashboard.png" alt="Dashboard">
     </p>
   </details>
   <details>
@@ -122,7 +122,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/crud.png" alt="crud">
+      <img src="../assets/projeto-3/crud.png" alt="crud">
     </p>
   </details>
 </details>
@@ -140,7 +140,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/paginacao.png" alt="Paginacao">
+      <img src="../assets/projeto-3/paginacao.png" alt="Paginacao">
     </p>
   </details>
   <details>
@@ -150,7 +150,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/listagem.png" alt="Listagem">
+      <img src="../assets/projeto-3/listagem.png" alt="Listagem">
     </p>
   </details>
   <details>
@@ -160,7 +160,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/dto.png" alt="Dto">
+      <img src="../assets/projeto-3/dto.png" alt="Dto">
     </p>
   </details>
   <details>
@@ -170,7 +170,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/query.png" alt="Query">
+      <img src="../assets/projeto-3/query.png" alt="Query">
     </p>
   </details>
   <details>
@@ -180,7 +180,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/padronizacao.png" alt="Padronizacao">
+      <img src="../assets/projeto-3/padronizacao.png" alt="Padronizacao">
     </p>
   </details>
 </details>
@@ -335,12 +335,12 @@ TODO: DESCREVER
 
 ## 🔎 Navegação entre Projetos
 
-- [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-1-semestre.md)  
-- [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-2-semestre.md)  
+- [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)  
+- [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)  
 - **3º Semestre: Sistema de Ponto e Geração de Relatórios**  
-- [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-4-semestre.md)  
-- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-5-semestre.md)  
-- [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-6-semestre.md)  
+- [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
+- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
+- [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
 
 ---
 
