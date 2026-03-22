@@ -1,8 +1,8 @@
-# Portfólio API's Banco de Dados - Augusto de Moraes Piatto
+# 📌 Portfólio API's Banco de Dados - Augusto de Moraes Piatto
 
 Trabalho de graduação na modalidade Portfólio dos projetos realizados utilizando a metodologia ágil Scrum e a Aprendizagem por Projetos Integrados (API), necessário como parte dos requisitos para obtenção do título de Tecnólogo em Banco de Dados pela Faculdade de Tecnologia de São José dos Campos.
 
-## Autor
+## 👤 Autor
 
 Olá! Sou estudante no curso de Banco de Dados da [FATEC São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/), da turma de 2024 - 1º semestre.
 Sou formado em Engenharia de Materiais na [UNESP de Guaratinguetá](https://www.feg.unesp.br/), iniciando pesquisas científicas em 2014. Em 2015 realizei intercâmbio pelo Ciência sem Fronteiras para o Estados Unidos, com duração de 9 meses de curso em Ciência dos Materiais e 2 meses realizando pesquisa científica.
@@ -20,19 +20,19 @@ Durante os estudos na FATEC aprendi, principalmente, sobre tecnologias voltadas 
  <a href="https://github.com/augustopiatto" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github" target="_blank"></a>
 </div>
 
-## Meus Principais Conhecimentos
-* Desenvolvimento:
+## 🧠 Meus Principais Conhecimentos
+* 💻 Desenvolvimento:
   * Front-end: Experiência sólida utilizando `Vue`, com conhecimento em `React` - `JavasScript` / `TypeScript`.
   * Back-end: Experiência sólida utilizando `Django`, além de uso esporádico de `SpringBoot` - `Python`.
   * Banco de Dados: Conhecimento em banco relacionais, principalmente `postgres`.
 
-* Metodologia Ágil (Scrum) - Product Owner:
+* 📋 Metodologia Ágil (Scrum) - Product Owner:
   * Criação do Product Backlog pela metodologia Product Backlog Building (PBB);
   * Quebra das User Stories da Sprint em Tasks objetivas;
   * Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe;
   * Utilização das ferramentas `Jira`, `Azure Boards`.
 
-## Meus Projetos
+## 📂 Meus Projetos
 * [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-1-semestre.md)
 * [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-2-semestre.md)
 * [3º Semestre: Projeto Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/Projetos/API-3-semestre.md)
