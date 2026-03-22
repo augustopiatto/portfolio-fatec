@@ -64,7 +64,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
   <br>
   <br>
   <p align="center">
-    <img src="../assets/projeto-3/wireframe.png" alt="Wireframe">
+    <img src="../assets/projeto-3/images/wireframe.png" alt="Wireframe">
   </p>
 </details>
 
@@ -75,7 +75,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
   <br>
   <br>
   <p align="center">
-    <img src="../assets/projeto-3/modelagem.png" alt="Modelagem">
+    <img src="../assets/projeto-3/images/modelagem.png" alt="Modelagem">
   </p>
 </details>
 
@@ -92,7 +92,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/bibliotecas.png" alt="Bibliotecas">
+      <img src="../assets/projeto-3/images/bibliotecas.png" alt="Bibliotecas">
     </p>
   </details>
   <details>
@@ -102,7 +102,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/design-system.png" alt="Design-system">
+      <img src="../assets/projeto-3/images/design-system.png" alt="Design-system">
     </p>
   </details>
   <details>
@@ -112,7 +112,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/dashboard.png" alt="Dashboard">
+      <img src="../assets/projeto-3/images/dashboard.png" alt="Dashboard">
     </p>
   </details>
   <details>
@@ -122,7 +122,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/crud.png" alt="crud">
+      <img src="../assets/projeto-3/images/crud.png" alt="crud">
     </p>
   </details>
 </details>
@@ -140,7 +140,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/paginacao.png" alt="Paginacao">
+      <img src="../assets/projeto-3/images/paginacao.png" alt="Paginacao">
     </p>
   </details>
   <details>
@@ -150,7 +150,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/listagem.png" alt="Listagem">
+      <img src="../assets/projeto-3/images/listagem.png" alt="Listagem">
     </p>
   </details>
   <details>
@@ -160,7 +160,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/dto.png" alt="Dto">
+      <img src="../assets/projeto-3/images/dto.png" alt="Dto">
     </p>
   </details>
   <details>
@@ -170,7 +170,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/query.png" alt="Query">
+      <img src="../assets/projeto-3/images/query.png" alt="Query">
     </p>
   </details>
   <details>
@@ -180,7 +180,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-3/padronizacao.png" alt="Padronizacao">
+      <img src="../assets/projeto-3/images/padronizacao.png" alt="Padronizacao">
     </p>
   </details>
 </details>
@@ -202,9 +202,13 @@ A aplicação permite o gerenciamento completo das entidades principais do siste
 
 Essa estrutura garante consistência dos dados e rastreabilidade das relações entre funcionários e organizações.
 
+<details>
+<summary>Clique para ver o vídeo</summary>
+<br>
 <p align="center">
-  <video src="assets/upload-foto.mp4" controls width="600"></video>
+  <video src="../assets/projeto-3/videos/US-3.mp4" controls width="600"></video>
 </p>
+</details>
 
 ###  Controle de Ponto
 
@@ -227,9 +231,13 @@ Os registros podem ser facilmente explorados através de filtros avançados:
 
 Isso permite que o usuário visualize apenas os dados relevantes para sua análise.
 
+<details>
+<summary>Clique para ver o vídeo</summary>
+<br>
 <p align="center">
-  <video src="assets/listagem-de-movimentacoes.mp4" controls width="600"></video>
+  <video src="../assets/projeto-3/videos/US-6.mp4" controls width="600"></video>
 </p>
+</details>
 
 ### Análise e Visualização
 
@@ -244,9 +252,13 @@ O sistema disponibiliza dashboards interativos que transformam dados brutos em i
 
 Essas visualizações facilitam a tomada de decisão e o acompanhamento operacional.
 
+<details>
+<summary>Clique para ver o vídeo</summary>
+<br>
 <p align="center">
-  <video src="assets/dashboard.webm" controls width="600"></video>
+  <video src="../assets/projeto-3/videos/US-8.webm" controls width="600"></video>
 </p>
+</details>
 
 ### Exportação de Dados
 
@@ -271,7 +283,9 @@ O fluxo completo da aplicação permite que o usuário vá desde o cadastro de d
 
 ## 📚 Aprendizados Efetivos
 
-TODO: DESCREVER
+Neste projeto, aprofundei minha atuação como desenvolvedor full-stack, evoluindo na construção de interfaces com Vue.js e no desenvolvimento de APIs REST com Java e Spring Boot. Ganhei experiência na integração entre front-end e back-end, além de trabalhar com otimização de queries e estruturação de dados.
+
+Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, utilizando Docker, padronização de código e metodologia ágil para garantir entregas consistentes e alinhadas às necessidades do negócio.
 
 ### 🧠 Hard Skills
 
