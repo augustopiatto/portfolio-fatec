@@ -1,82 +1,357 @@
-# API 4º Semestre - 02/2025
+PENDENTE: TEXTO E FOTOS DA CONTRIBUIÇÃO
 
 <h1 align="center">🚀 API 4º Semestre - 02/2025</h1>
 
 <p align="center">
-  <a href="https://github.com/DenariusData/API-4SEM" target="_blank">
+  <a href="https://github.com/SQLutions-FATEC/API-4-Semestre" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Repositório-555555?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 <p align="center">
   🎓 <strong>Parceiro Acadêmico:</strong><br>
-  Prefeitura de São José dos Campos
+  FATEC São José dos Campos - Prof. Jessen Vidal <br><br>
+  🤝 <strong>Empresa Parceira:</strong><br>
+  Denarius Data
 </p>
 
 ---
 
 ## 📌 Resumo do Projeto
 
-> A
+> Desenvolvimento de um Sistema Inteligente de Monitoramento e Alerta de Tráfego para a cidade de São José dos Campos. A solução centraliza dados de radares, permite o cadastro de indicadores personalizados com níveis de severidade e emite alertas automáticos para gestores e agentes de mobilidade. Complementado por um dashboard interativo com mapa georreferenciado, o sistema oferece visão consolidada e em tempo real dos indicadores de desempenho, padrões de tráfego e métricas dos agentes, otimizando a alocação de recursos e melhorando a fluidez do trânsito.
+
+---
+
+## ⚠️ Problema
+
+> A cidade de São José dos Campos carecia de um sistema integrado que transformasse os dados dos radares em insights acionáveis para a gestão do tráfego urbano. A falta de indicadores específicos para disparo de alertas e a ausência de uma ferramenta para alocação eficiente de agentes de mobilidade resultavam em respostas tardias a incidentes e na alocação inadequada de recursos públicos.
+
+---
+
+## 💡 Solução
+
+> Implementação de uma plataforma web completa com diferentes níveis de acesso (público, agente, gestor e administrador). A solução permite a definição de indicadores personalizados com níveis de severidade, emite alertas automáticos baseados nos dados dos radares, possibilita a designação inteligente de agentes por zonas e subzonas estratégicas, e oferece dashboards interativos para tomada de decisão baseada em dados. O sistema conta também com documentação de API via Swagger, logs de auditoria e protocolos para resolução de ocorrências.
 
 ---
 
 ## 🛠 Tecnologias Adotadas
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </p>
 
-- [Java](): A
+- **PostgreSQL**: Banco de dados relacional utilizado para armazenar os dados de radares, indicadores, alertas, usuários e logs do sistema.
+- **Docker**: Empregado para containerização da aplicação, permitindo a criação de ambientes isolados e reproduzíveis para o backend, frontend e banco de dados.
+- **Java 21**: Linguagem principal do backend, com ênfase em orientação a objetos e boas práticas de desenvolvimento.
+- **Spring Boot**: Framework para desenvolvimento da API RESTful, com Spring Data JPA para ORM e Spring Security para controle de autenticação e autorização por perfis.
+- **Maven**: Gerenciador de dependências para automatização do build e integração de bibliotecas.
+- **Vue.js**: Framework web utilizado para construir o frontend interativo, com integração de mapas georreferenciados e dashboards dinâmicos.
+- **Figma**: Ferramenta de design utilizada para prototipação e validação de interface com o cliente.
+- **Swagger**: Documentação interativa da API, facilitando o entendimento e teste dos endpoints.
 
 ---
 
 ## 👨‍💻 Contribuições Individuais
 
-A
+Atuei como **Product Owner** e **desenvolvedor full-stack** neste projeto, liderando a definição do backlog, priorização de entregas e alinhamento constante com o cliente, além de contribuir tecnicamente em diversas frentes. Minha atuação foi fundamental para garantir que o produto final atendesse às necessidades reais do negócio, mantendo o equilíbrio entre escopo, prazo e qualidade.
+
+<details>
+  <summary>📋 <b>Gestão de Produto e Backlog</b></summary>
+  <br>
+  Como Product Owner, fui responsável por toda a gestão do backlog do produto, desde a elicitação de requisitos até a priorização das entregas. Minhas principais contribuições foram:
+  <br>
+  <br>
+  <details>
+    <summary>Definição de Prioridades e Escopo</summary>
+    <br>
+    Conduzi reuniões com o cliente (Prefeitura de São José dos Campos) para entender as dores e necessidades do negócio, traduzindo-as em user stories com critérios de aceitação claros. Realizei a priorização utilizando a técnica MoSCoW, garantindo que as funcionalidades de maior valor fossem entregues primeiro. Gerenciei mudanças de escopo ao longo do projeto, documentando a exclusão de 70 horas em user stories que não seriam viáveis dentro do prazo e a inclusão de novas histórias com 49 horas na Sprint 3.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/backlog.png" alt="Gestão de Backlog">
+    </p>
+  </details>
+  <details>
+    <summary>Definição de DoR e DoD</summary>
+    <br>
+    Estabeleci critérios claros de Definition of Ready (DoR) e Definition of Done (DoD) para garantir a qualidade e previsibilidade das entregas. Os critérios incluíam subtarefas definidas, design validado no Figma, modelagem de banco de dados aprovada e documentação completa, assegurando que cada sprint entregasse valor real ao cliente.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/dod-dor.png" alt="DoR e DoD">
+    </p>
+  </details>
+</details>
+
+<details>
+  <summary>🗺️ <b>Arquitetura e Integração de Mapas</b></summary>
+  <br>
+  Liderei a definição técnica para integração de mapas georreferenciados com as divisões de zonas e subzonas da cidade de São José dos Campos.
+  <br>
+  <br>
+  <details>
+    <summary>Implementação de Mapa Interativo</summary>
+    <br>
+    Desenvolvi a lógica de integração entre o frontend Vue.js e a API de mapas, permitindo a visualização dinâmica das zonas da cidade, com demarcação das principais vias e níveis de congestionamento. A solução permite que usuários públicos, agentes e gestores visualizem as informações de forma contextualizada geograficamente.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/mapa.png" alt="Mapa Interativo">
+    </p>
+  </details>
+  <details>
+    <summary>Associação de Agentes a Zonas</summary>
+    <br>
+    Implementei a lógica de negócios para associar agentes de mobilidade a zonas específicas, garantindo que cada profissional receba apenas os alertas relevantes para sua área de atuação. Essa funcionalidade otimiza a alocação de recursos e reduz o tempo de resposta a incidentes.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/associacao-agentes.png" alt="Associação de Agentes">
+    </p>
+  </details>
+</details>
+
+<details>
+  <summary>📊 <b>Dashboards e Visualização de Dados</b></summary>
+  <br>
+  Responsável pelo desenvolvimento dos dashboards interativos que fornecem visibilidade estratégica para gestores e agentes.
+  <br>
+  <br>
+  <details>
+    <summary>Dashboard de Indicadores</summary>
+    <br>
+    Criei telas com gráficos dinâmicos e tabelas que apresentam os principais indicadores de tráfego, permitindo que gestores identifiquem padrões, acompanhem a evolução dos níveis de severidade e tomem decisões baseadas em dados em tempo real.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/dashboard-indicadores.png" alt="Dashboard de Indicadores">
+    </p>
+  </details>
+  <details>
+    <summary>Logs de Alertas e Auditoria</summary>
+    <br>
+    Implementei a funcionalidade de logs de alertas para registro histórico de todas as ocorrências geradas pelo sistema. Esta funcionalidade permite estudos de comportamento do trânsito, auditoria e análise de eficácia das ações tomadas pelos agentes.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/logs.png" alt="Logs de Alertas">
+    </p>
+  </details>
+</details>
+
+<details>
+  <summary>🔐 <b>Controle de Acesso e Segurança</b></summary>
+  <br>
+  Atuei na definição e implementação da estrutura de perfis e permissões do sistema, garantindo que cada tipo de usuário tenha acesso apenas às funcionalidades adequadas.
+  <br>
+  <br>
+  <details>
+    <summary>Gestão de Usuários e Perfis</summary>
+    <br>
+    Implementei o CRUD completo de usuários com diferentes perfis de acesso: público, agente, gestor e administrador. Cada perfil possui visibilidade e permissões específicas sobre as telas, dados e funcionalidades do sistema, garantindo segurança e conformidade com os requisitos do cliente.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/gestao-usuarios.png" alt="Gestão de Usuários">
+    </p>
+  </details>
+  <details>
+    <summary>Autenticação e Autorização</summary>
+    <br>
+    Configurei o Spring Security para gerenciar a autenticação via JWT (JSON Web Token) e controle de acesso baseado em papéis (RBAC), assegurando que apenas usuários autenticados e autorizados possam acessar recursos sensíveis da API.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/autenticacao.png" alt="Autenticação">
+    </p>
+  </details>
+</details>
+
+<details>
+  <summary>📚 <b>Documentação e Qualidade</b></summary>
+  <br>
+  Fui responsável pela criação e manutenção da documentação técnica e do usuário, garantindo que o sistema fosse utilizável e mantível.
+  <br>
+  <br>
+  <details>
+    <summary>Documentação da API com Swagger</summary>
+    <br>
+    Implementei a documentação interativa da API utilizando Swagger/OpenAPI, permitindo que outros desenvolvedores e stakeholders compreendam e testem os endpoints de forma autônoma. A documentação inclui descrições detalhadas de cada endpoint, parâmetros, modelos de requisição e resposta.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/swagger.png" alt="Documentação Swagger">
+    </p>
+  </details>
+  <details>
+    <summary>Manuais de Instalação e Usuário</summary>
+    <br>
+    Elaborei manuais completos para instalação do sistema e para uso por cada perfil de usuário (público, agente, gestor e administrador), facilitando a adoção da plataforma e reduzindo a necessidade de suporte técnico.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-4/images/manuais.png" alt="Manuais">
+    </p>
+  </details>
+</details>
 
 ---
 
 ## ⚙️ Funcionamento
 
-A
+O sistema foi desenvolvido para atender quatro perfis de usuário distintos, cada um com funcionalidades e permissões específicas.
+
+### Para o Usuário Público
+
+O cidadão comum tem acesso a informações de utilidade pública sobre o trânsito da cidade:
+
+- **Visualização do Mapa Interativo**: Acesso ao mapa com as zonas da cidade e seus níveis de congestionamento.
+- **Documentação de Indicadores**: Consulta aos indicadores monitorados pelo sistema e seus níveis de severidade.
+- **Informações Transparentes**: Dados de trânsito em linguagem acessível para a população.
+
+<details>
+<summary>Clique para ver o vídeo do fluxo do usuário público</summary>
+<br>
+<p align="center">
+  <video src="../assets/projeto-4/videos/fluxo-publico.mp4" controls width="600"></video>
+</p>
+</details>
+
+### Para o Agente de Mobilidade
+
+Os agentes de campo recebem alertas e têm ferramentas para atuar na resolução de incidentes:
+
+- **Recebimento de Alertas**: Notificações em tempo real sobre mudanças nos níveis de severidade dos indicadores em suas zonas designadas.
+- **Visualização de Alertas Específicos**: Acesso detalhado a cada alerta, com informações sobre a ocorrência e protocolos de resolução.
+- **Finalização de Ocorrências**: Registro de ações realizadas e encerramento de alertas com documentação da causa raiz.
+
+<details>
+<summary>Clique para ver o vídeo do fluxo do agente</summary>
+<br>
+<p align="center">
+  <video src="../assets/projeto-4/videos/fluxo-agente.mp4" controls width="600"></video>
+</p>
+</details>
+
+### Para o Gestor de Mobilidade
+
+Os gestores possuem visibilidade estratégica e ferramentas de configuração do sistema:
+
+- **Dashboard Interativo**: Gráficos e tabelas com indicadores de desempenho, padrões de tráfego e métricas dos agentes.
+- **Configuração de Indicadores**: Criação e edição de indicadores personalizados com níveis de severidade.
+- **Gestão de Alertas**: Visualização de todos os alertas gerados e análise de logs históricos.
+- **Designação de Agentes**: Associação de agentes a zonas e subzonas para alocação eficiente de recursos.
+- **Criação de Protocolos**: Definição de causas raiz e protocolos de ação para orientar os agentes.
+
+<details>
+<summary>Clique para ver o vídeo do fluxo do gestor</summary>
+<br>
+<p align="center">
+  <video src="../assets/projeto-4/videos/fluxo-gestor.mp4" controls width="600"></video>
+</p>
+</details>
+
+### Para o Administrador
+
+O administrador tem controle total sobre o sistema e seus usuários:
+
+- **Gestão Completa de Usuários**: Criação, edição, exclusão e gerenciamento de perfis de todos os usuários da plataforma.
+- **Configurações Globais**: Acesso a todas as configurações do sistema.
+- **Auditoria**: Acesso a logs completos para rastreamento de ações e histórico.
+
+<details>
+<summary>Clique para ver o vídeo do fluxo do administrador</summary>
+<br>
+<p align="center">
+  <video src="../assets/projeto-4/videos/fluxo-admin.mp4" controls width="600"></video>
+</p>
+</details>
 
 ---
 
 ## 📚 Aprendizados Efetivos
 
-A
+Este projeto representou um marco importante na minha formação, sendo minha primeira experiência como Product Owner em um projeto real com cliente corporativo. Aprendi a equilibrar as demandas do negócio com as limitações técnicas e de prazo da equipe, desenvolvendo habilidades valiosas de liderança, comunicação e gestão de expectativas.
 
- <h3 align="center"> Hard Skills </h3>
-  <table align="center">
-    <tr>
-      <th width="270px">Tecnologia/Metodologia</th>
-      <th width="85px">Nota</th>
-      <th width="200px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Metodologia Ágil Scrum</td>
-      <td>★★★☆☆</td>
-	<td>Entendi</td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>★★★★☆</td>
-	<td>Sei fazer com ajuda</td>
-    </tr>
-  </table>
-  
-  <h3 align="center">Soft Skills</h3>
-  <table align="center">
-    <tr>
-      <th width="270px">Habilidade</th>
-      <th width="280px">Descrição</th>
-    </tr>
-    <tr>
-      <td>Liderança Técnica</td>
-      <td>Atuei como referência em desenvolvimento no time, auxiliando nas decisões arquiteturais e orientando colegas com menos experiência em programação.</td>
-    </tr>
-  </table>
+### 🧠 Hard Skills
+
+<table align="center">
+   <tr>
+    <th width="270px">Tecnologia/Metodologia</th>
+    <th width="85px">Nota</th>
+    <th width="200px">Classificação</th>
+   </tr>
+   <tr>
+    <td>Gestão de Produto (Product Owner)</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Spring Boot / Spring Security</td>
+    <td>★★★★☆</td>
+    <td>Sei fazer com ajuda</td>
+   </tr>
+   <tr>
+    <td>Vue.js</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>PostgreSQL</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Docker</td>
+    <td>★★★★☆</td>
+    <td>Sei fazer com ajuda</td>
+   </tr>
+   <tr>
+    <td>Swagger/OpenAPI</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Metodologia Ágil Scrum</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+</table>
+
+---
+
+### 🤝 Soft Skills
+
+<table align="center">
+   <tr>
+    <th width="270px">Habilidade</th>
+    <th width="280px">Descrição</th>
+   </tr>
+   <tr>
+    <td>Liderança e Gestão de Equipe</td>
+    <td>Atuei como Product Owner, conduzindo refinamentos e mantendo o time alinhado e motivado durante todo o projeto.</td>
+   </tr>
+   <tr>
+    <td>Comunicação com Stakeholders</td>
+    <td>Realizei conversas constantes com o cliente "Prefeitura de São José dos Campos" via Slack, para alinhar expectativas, apresentar entregas e gerenciar mudanças de escopo de forma transparente.</td>
+   </tr>
+   <tr>
+    <td>Priorização e Gestão de Escopo</td>
+    <td>Gerenciei a remoção de 70 horas em user stories e a inclusão de 49 horas de novas histórias, garantindo entregas de valor dentro do prazo estabelecido.</td>
+   </tr>
+   <tr>
+    <td>Planejamento Estratégico</td>
+    <td>Defini a visão do produto, estabeleci critérios de DoR e DoD, e planejei as sprints considerando riscos, dependências e capacidade da equipe.</td>
+   </tr>
+</table>
 
 ---
 
@@ -84,10 +359,10 @@ A
 
 - [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
 - [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
-- [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)  
-- **4º Semestre:** Radarius - Monitoramento e Resposta a Incidentes  
-- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
-- [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
+- [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)
+- **4º Semestre: Radarius - Monitoramento e Resposta a Incidentes**
+- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
+- [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)
 
 ---
 
