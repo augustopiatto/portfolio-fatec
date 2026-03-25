@@ -12,7 +12,7 @@ PENDENTE: TEXTO E FOTOS DA CONTRIBUIÇÃO
   🎓 <strong>Parceiro Acadêmico:</strong><br>
   FATEC São José dos Campos - Prof. Jessen Vidal <br><br>
   🤝 <strong>Empresa Parceira:</strong><br>
-  Denarius Data
+  Prefeitura de São José dos Campos
 </p>
 
 ---
