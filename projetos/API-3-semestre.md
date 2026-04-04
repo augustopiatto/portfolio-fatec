@@ -82,7 +82,7 @@ Atuei como desenvolvedor **full-stack** com participação estratégica em todas
 <details>
   <summary>💻 <b>Front-end (Vue.js)</b></summary>
   <br>
-  Liderança técnica no desenvolvimento da interface, implementando soluções robustas e escaláveis com Vue.js. Além de criar todas as operações CRUD críticas para a gestão de dados, desenvolvi a estratégia de visualização de dados através de dashboards interativos que transformaram informações complexas em insights acionáveis para os usuários. Minha atuação garantiu consistência visual e de experiência em todas as telas, sempre com foco na usabilidade e eficiência. Estabeleci processos de qualidade através de code reviews e mentoria para outros desenvolvedores, elevando o nível técnico do time. A colaboração próxima com Product Owners permitiu traduzir necessidades de negócio em soluções técnicas eficazes, sempre com foco na entrega de valor.
+  Liderança técnica no desenvolvimento da interface, implementando soluções robustas e escaláveis com Vue.js. Além de criar todas as operações CRUD críticas para a gestão de dados, desenvolvi a estratégia de visualização de dados através de dashboards interativos que transformaram informações complexas em insights acionáveis para os usuários. Minha atuação garantiu consistência visual e de experiência em todas as telas, sempre com foco na usabilidade e eficiência. Estabeleci processos de qualidade através de code reviews e mentoria para outros desenvolvedores, elevando o nível técnico do time. A colaboração próxima com Product Owner permitiu traduzir necessidades de negócio em soluções técnicas eficazes, sempre com foco na entrega de valor.
   <br>
   <br>
   <details>
@@ -206,7 +206,7 @@ Essa estrutura garante consistência dos dados e rastreabilidade das relações 
 <summary>Clique para ver o vídeo</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-3/videos/US-3.mp4" controls width="600"></video>
+  <video src="../assets/projeto-3/videos/US-3.mp4" alt="US-3" controls width="600"></video>
 </p>
 </details>
 
@@ -235,7 +235,7 @@ Isso permite que o usuário visualize apenas os dados relevantes para sua análi
 <summary>Clique para ver o vídeo</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-3/videos/US-6.mp4" controls width="600"></video>
+  <video src="../assets/projeto-3/videos/US-6.mp4" alt="US-6" controls width="600"></video>
 </p>
 </details>
 
@@ -256,7 +256,7 @@ Essas visualizações facilitam a tomada de decisão e o acompanhamento operacio
 <summary>Clique para ver o vídeo</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-3/videos/US-8.webm" controls width="600"></video>
+  <video src="../assets/projeto-3/videos/US-8.webm" alt="US-8" controls width="600"></video>
 </p>
 </details>
 
@@ -352,7 +352,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
 - [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)  
 - [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)  
 - **3º Semestre: Sistema de Ponto e Geração de Relatórios**  
-- [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
+- [4º Semestre: Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
 - [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
 

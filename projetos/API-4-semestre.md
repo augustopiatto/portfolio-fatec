@@ -221,7 +221,7 @@ O cidadão comum tem acesso a informações de utilidade pública sobre o trâns
 <summary>Clique para ver o vídeo do fluxo do usuário público</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-publico.mp4" controls width="600"></video>
+  <video src="../assets/projeto-4/videos/fluxo-publico.mp4" alt="Fluxo publico" controls width="600"></video>
 </p>
 </details>
 
@@ -237,7 +237,7 @@ Os agentes de campo recebem alertas e têm ferramentas para atuar na resolução
 <summary>Clique para ver o vídeo do fluxo do agente</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-agente.mp4" controls width="600"></video>
+  <video src="../assets/projeto-4/videos/fluxo-agente.mp4" alt="Fluxo agente" controls width="600"></video>
 </p>
 </details>
 
@@ -255,7 +255,7 @@ Os gestores possuem visibilidade estratégica e ferramentas de configuração do
 <summary>Clique para ver o vídeo do fluxo do gestor</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-gestor.mp4" controls width="600"></video>
+  <video src="../assets/projeto-4/videos/fluxo-gestor.mp4" alt="Fluxo gestor" controls width="600"></video>
 </p>
 </details>
 
@@ -271,7 +271,7 @@ O administrador tem controle total sobre o sistema e seus usuários:
 <summary>Clique para ver o vídeo do fluxo do administrador</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-admin.mp4" controls width="600"></video>
+  <video src="../assets/projeto-4/videos/fluxo-admin.mp4" alt="Fluxo admin" controls width="600"></video>
 </p>
 </details>
 
@@ -360,7 +360,7 @@ Este projeto representou um marco importante na minha formação, sendo minha pr
 - [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
 - [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
 - [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)
-- **4º Semestre: Radarius - Monitoramento e Resposta a Incidentes**
+- **4º Semestre: Monitoramento e Resposta a Incidentes**
 - [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)
 

@@ -177,37 +177,37 @@ O professor possui um painel de controle completo para gerenciar todo o processo
 <br>
 <p align="center">
   <h3>Login e Criação de Equipes</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-1.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-1.mp4" alt="Fluxo professor 1" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Criação de Sprints</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-2.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-2.mp4" alt="Fluxo professor 2" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Edição e Exclusão de alunos</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-3.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-3.mp4" alt="Fluxo professor 3" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Definir Limite de Pontuação fora da data</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-4.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-4.mp4" alt="Fluxo professor 4" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Definir Limite de Pontuação dentro da data</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-5.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-5.mp4" alt="Fluxo professor 5" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Criação e Seleção de Critérios</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-6.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-6.mp4" alt="Fluxo professor 6" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Visualização de Médias e Geração de Relatórios</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-7.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/teacher-flow-7.mp4" alt="Fluxo professor 7" controls width="600"></video>
 </p>
 </details>
 
@@ -223,7 +223,7 @@ O aluno tem uma interface simples e objetiva focada em sua tarefa principal:
 <summary>Clique para ver a demonstração do fluxo do aluno</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-2/videos/student-flow.mp4" controls width="600"></video>
+  <video src="../assets/projeto-2/videos/student-flow.mp4" alt="Fluxo estudante" controls width="600"></video>
 </p>
 </details>
 
@@ -313,7 +313,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
 - [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
 - **2º Semestre:** Projeto Avaliador de Soft Skill
 - [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)  
-- [4º Semestre: Radarius - Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
+- [4º Semestre: Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
 - [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
 
