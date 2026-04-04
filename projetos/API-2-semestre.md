@@ -104,13 +104,13 @@ Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo respon
     </p>
   </details>
   <details>
-    <summary>📅 Definição do Período de Avaliação</summary>
+    <summary>📅 Definição do Período de Sprint</summary>
     <br>
     Desenvolvi a tela onde o professor configura as datas de início e fim para cada sprint, com validações e feedbacks claros.
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-2/images/definicao-periodo.png" alt="Definição de Período de Avaliação">
+      <img src="../assets/projeto-2/images/tela-periodo-sprint.png" alt="Definição de Período de Sprint">
     </p>
   </details>
   <details>
@@ -120,7 +120,7 @@ Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo respon
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-2/images/definicao-criterios.png" alt="Definição de Critérios">
+      <img src="../assets/projeto-2/images/tela-definir-criterios.png" alt="Definição de Critérios">
     </p>
   </details>
   <details>
@@ -130,7 +130,7 @@ Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo respon
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-2/images/visualizacao-medias.png" alt="Visualização de Médias">
+      <img src="../assets/projeto-2/images/tela-visualizar-media.png" alt="Visualização de Médias">
     </p>
   </details>
   <details>
@@ -138,10 +138,6 @@ Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo respon
     <br>
     Realizei melhorias contínuas na interface e correções de bugs ao longo do projeto, assegurando a qualidade e a usabilidade do sistema.
     <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-2/images/refactors-front.png" alt="Refactors e Fixes">
-    </p>
   </details>
 </details>
 
