@@ -1,5 +1,3 @@
-PENDENTE: TEXTO E FOTOS DA CONTRIBUIÇÃO
-
 <h1 align="center">🚀 API 2º Semestre - 02/2024</h1>
 
 <p align="center">
@@ -58,32 +56,22 @@ PENDENTE: TEXTO E FOTOS DA CONTRIBUIÇÃO
 
 ## 👨‍💻 Contribuições Individuais
 
-Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo responsável por contribuições que abrangeram desde a modelagem do banco de dados até a construção da interface gráfica e a lógica de negócios. Minha atuação foi fundamental para garantir a integridade dos dados, a usabilidade do sistema e a aderência aos requisitos funcionais e não funcionais do projeto.
+Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo responsável por contribuições que abrangeram desde a modelagem do banco de dados até a construção da interface gráfica e a lógica de negócios. Fui responsável pela implementação de funcionalidades críticas tanto no front-end (JavaFX) quanto no back-end (Java). Minhas contribuições garantiram o controle de acesso ao sistema, a parametrização das avaliações pelos professores e a consistência dos dados ao longo das sprints.
 
 <details>
   <summary>🗄️ <b>Modelagem e Gestão do Banco de Dados (MySQL)</b></summary>
   <br>
-  Fui responsável por liderar o processo de modelagem do banco de dados relacional, garantindo que a estrutura suportasse de forma eficiente todos os requisitos do sistema, como o gerenciamento de múltiplas sprints, a flexibilidade de critérios de avaliação e o relacionamento entre alunos e equipes. As principais contribuições foram:
+  Auxiliei o processo de modelagem do banco de dados relacional, garantindo que a estrutura suportasse de forma eficiente todos os requisitos do sistema, como o gerenciamento de múltiplas sprints, a flexibilidade de critérios de avaliação e o relacionamento entre alunos e equipes. As principais contribuições foram:
   <br>
   <br>
   <details>
     <summary>Diagrama Entidade-Relacionamento (DER)</summary>
     <br>
-    Criei o DER do sistema, que serviu como guia para toda a implementação da camada de dados, assegurando a normalização e a integridade referencial entre as tabelas.
+    Auxiliei o processo de criação do DER do sistema, que serviu como guia para toda a implementação da camada de dados, assegurando a normalização e a integridade referencial entre as tabelas.
     <br>
     <br>
     <p align="center">
       <img src="../assets/projeto-2/images/modelagem.png" alt="Modelagem do Banco de Dados">
-    </p>
-  </details>
-  <details>
-    <summary>Implementação de Triggers e Procedures</summary>
-    <br>
-    Desenvolvi triggers para automatizar a lógica de negócios, como o cálculo automático das médias finais de um aluno ao término de uma sprint. Também implementei stored procedures para otimizar consultas complexas e garantir a consistência dos dados.
-    <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-2/images/triggers.png" alt="Implementação de Triggers">
     </p>
   </details>
 </details>
@@ -102,56 +90,102 @@ Atuei como **desenvolvedor full-stack** em uma aplicação desktop, sendo respon
 <details>
   <summary>💻 <b>Desenvolvimento Front-end (JavaFX)</b></summary>
   <br>
-  Fui o principal responsável pela implementação da interface gráfica do sistema utilizando JavaFX. Minhas contribuições focaram em criar uma experiência de usuário fluida e responsiva, atendendo às necessidades específicas de cada tipo de usuário.
+  No front-end, fui responsável pela implementação de telas e fluxos essenciais para a experiência dos usuários (alunos e professores), garantindo uma interface intuitiva e responsiva.
   <br>
   <br>
   <details>
-    <summary>Tela de Avaliação do Aluno</summary>
+    <summary>🔐 Tela de Login</summary>
     <br>
-    Implementei a tela central para os alunos, que apresenta uma matriz intuitiva para avaliar os colegas de equipe com base nos critérios definidos para a sprint. Incluí validações em tempo real, como o limite de pontos por aluno, e feedbacks claros para guiar o usuário.
+    Implementei a interface de autenticação, integrando-a com o back-end para validação de credenciais e redirecionamento baseado no perfil do usuário (aluno ou professor).
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-2/images/tela-aluno.png" alt="Tela de Avaliação do Aluno">
+      <img src="../assets/projeto-2/images/tela-login.png" alt="Tela de Login">
     </p>
   </details>
   <details>
-    <summary>Painel Administrativo do Professor</summary>
+    <summary>📅 Definição do Período de Avaliação</summary>
     <br>
-    Desenvolvi o painel completo para os professores, que reúne funcionalidades de gestão. Isso incluiu a criação de telas para importação de alunos via CSV, criação e gerenciamento de sprints, definição de critérios de avaliação, visualização de médias e geração de relatórios.
+    Desenvolvi a tela onde o professor configura as datas de início e fim para cada sprint, com validações e feedbacks claros.
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-2/images/tela-professor.png" alt="Painel do Professor">
+      <img src="../assets/projeto-2/images/definicao-periodo.png" alt="Definição de Período de Avaliação">
+    </p>
+  </details>
+  <details>
+    <summary>📋 Definição de Critérios do Semestre</summary>
+    <br>
+    Criei a interface para o professor cadastrar e editar os critérios de avaliação (ex: Proatividade, Autonomia) que serão utilizados em um determinado semestre.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-2/images/definicao-criterios.png" alt="Definição de Critérios">
+    </p>
+  </details>
+  <details>
+    <summary>📊 Visualização das Médias da Equipe</summary>
+    <br>
+    Implementei a tela que exibe as médias calculadas de cada aluno por equipe e sprint, permitindo que o professor acompanhe o desempenho de forma clara e organizada.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-2/images/visualizacao-medias.png" alt="Visualização de Médias">
+    </p>
+  </details>
+  <details>
+    <summary>🛠️ Refactors e Fixes Menores</summary>
+    <br>
+    Realizei melhorias contínuas na interface e correções de bugs ao longo do projeto, assegurando a qualidade e a usabilidade do sistema.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-2/images/refactors-front.png" alt="Refactors e Fixes">
     </p>
   </details>
 </details>
 
 <details>
-  <summary>⚙️ <b>Lógica de Negócios e Integração (Java)</b></summary>
+  <summary>⚙️ <b>Lógica de Negócios e Back-end (Java)</b></summary>
   <br>
-  Atuei na construção das regras de negócio que sustentam a aplicação, garantindo que o sistema se comportasse corretamente de acordo com os requisitos do cliente.
+  No back-end, atuei na construção das regras de negócio e na exposição de endpoints para suportar as funcionalidades gerenciadas pelos professores.
   <br>
   <br>
   <details>
-    <summary>Cálculo Automático de Médias</summary>
+    <summary>🔐 Autenticação (Login)</summary>
     <br>
-    Implementei a lógica para calcular as médias ponderadas dos alunos com base nas avaliações recebidas, agrupadas por critério e por sprint. A regra considera o período de avaliação e o limite de pontos definido pelo professor para garantir a precisão dos resultados.
+    Implementei a lógica de validação de credenciais no back-end, com verificação no banco de dados e retorno do perfil do usuário autenticado.
     <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-2/images/calculo-medias.png" alt="Cálculo de Médias">
-    </p>
   </details>
   <details>
-    <summary>Controle de Períodos de Avaliação</summary>
+    <summary>📅 Definição do Período de Avaliação</summary>
     <br>
-    Desenvolvi a lógica que valida o acesso dos alunos ao sistema de avaliação com base nas datas de início e fim configuradas pelo professor para cada sprint, exibindo mensagens amigáveis caso o usuário tente acessar fora do período permitido.
+    Desenvolvi os endpoints e a lógica para persistir as datas de início e fim das sprints, além das validações para garantir que apenas professores autorizados possam realizar essa configuração.
     <br>
+  </details>
+  <details>
+    <summary>📋 Definição de Critérios do Semestre</summary>
     <br>
-    <p align="center">
-      <img src="../assets/projeto-2/images/controle-datas.png" alt="Controle de Períodos">
-    </p>
+    Criei a camada de serviço e os endpoints para o cadastro, edição e remoção dos critérios de avaliação, assegurando a integridade referencial com as avaliações já realizadas.
+    <br>
+  </details>
+  <details>
+    <summary>🎯 Professor Definir Pontuação Máxima de Sprint</summary>
+    <br>
+    Implementei a lógica que permite ao professor configurar o limite de pontos que cada aluno pode distribuir em uma sprint, persistindo essa informação e aplicando-a nas validações futuras.
+    <br>
+  </details>
+  <details>
+    <summary>✏️ Professor Editar Aluno</summary>
+    <br>
+    Desenvolvi os endpoints para edição de dados cadastrais dos alunos, garantindo que apenas usuários com perfil de professor possam realizar essa operação.
+    <br>
+  </details>
+  <details>
+    <summary>🛠️ Refactors e Fixes Menores</summary>
+    <br>
+    Realizei refatorações no código para melhorar a performance e a manutenibilidade, além de correções de bugs identificados durante os testes.
+    <br>
   </details>
 </details>
 
@@ -259,7 +293,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
     <td>Sei fazer com ajuda</td>
     </tr>
     <tr>
-    <td>MySQL (Modelagem e Triggers)</td>
+    <td>MySQL (Modelagem)</td>
     <td>★★★★★</td>
     <td>Sei fazer com autonomia</td>
     </tr>
