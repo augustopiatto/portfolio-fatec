@@ -204,8 +204,9 @@ Os agentes de campo recebem alertas e têm ferramentas para atuar na resolução
 <details>
 <summary>Clique para ver o vídeo do fluxo do agente</summary>
 <br>
-![Fluxo publicagenteo](https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112)
+<video src="https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112" controls width="600"></video>
 </details>
+![Fluxo agente](https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112)
 
 ### Para o Gestor de Mobilidade
 
