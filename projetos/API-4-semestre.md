@@ -241,7 +241,7 @@ O administrador tem controle total sobre o sistema e seus usuários:
 <summary>Clique para ver o vídeo do fluxo do administrador</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-admin.mp4" alt="Fluxo admin" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/376c77cc-f8b5-4c04-8422-4beb220da13c" controls width="600"></video>
 </p>
 </details>
 
