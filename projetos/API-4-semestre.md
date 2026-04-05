@@ -3,7 +3,7 @@ PENDENTE: TEXTO E FOTOS DA CONTRIBUIÇÃO
 <h1 align="center">🚀 API 4º Semestre - 02/2025</h1>
 
 <p align="center">
-  <a href="https://github.com/SQLutions-FATEC/API-4-Semestre" target="_blank">
+  <a href="https://github.com/DenariusData/API-4SEM" target="_blank">
     <img src="https://img.shields.io/badge/🔗 Repositório-555555?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -72,7 +72,7 @@ Atuei como **Product Owner** e **desenvolvedor full-stack** neste projeto, lider
   <details>
     <summary>Definição de Prioridades e Escopo</summary>
     <br>
-    Conduzi reuniões com o cliente (Prefeitura de São José dos Campos) para entender as dores e necessidades do negócio, traduzindo-as em user stories com critérios de aceitação claros. Realizei a priorização utilizando a técnica MoSCoW, garantindo que as funcionalidades de maior valor fossem entregues primeiro. Gerenciei mudanças de escopo ao longo do projeto, documentando a exclusão de 70 horas em user stories que não seriam viáveis dentro do prazo e a inclusão de novas histórias com 49 horas na Sprint 3.
+    Conduzi reuniões com o cliente (Prefeitura de São José dos Campos) para entender as dores e necessidades do negócio, traduzindo-as em user stories com critérios de aceitação claros. Realizei a priorização garantindo que as funcionalidades de maior valor fossem entregues primeiro. Gerenciei mudanças de escopo ao longo do projeto, sempre alinhando com o cliente.
     <br>
     <br>
     <p align="center">
@@ -92,85 +92,45 @@ Atuei como **Product Owner** e **desenvolvedor full-stack** neste projeto, lider
 </details>
 
 <details>
-  <summary>🗺️ <b>Arquitetura e Integração de Mapas</b></summary>
+  <summary>📊 <b>Desenvolvimento de Funcionalidades (Back-end e Front-end)</b></summary>
   <br>
-  Liderei a definição técnica para integração de mapas georreferenciados com as divisões de zonas e subzonas da cidade de São José dos Campos.
+  Atuei no desenvolvimento de funcionalidades específicas tanto no back-end quanto no front-end do sistema, contribuindo para a lógica de negócios e para a experiência do usuário.
   <br>
   <br>
   <details>
-    <summary>Implementação de Mapa Interativo</summary>
+    <summary>📈 Listar Níveis de Indicadores</summary>
     <br>
-    Desenvolvi a lógica de integração entre o frontend Vue.js e a API de mapas, permitindo a visualização dinâmica das zonas da cidade, com demarcação das principais vias e níveis de congestionamento. A solução permite que usuários públicos, agentes e gestores visualizem as informações de forma contextualizada geograficamente.
+    Implementei a lógica no back-end para listar os níveis de severidade dos indicadores de tráfego, garantindo que o front-end recebesse os dados estruturados corretamente para exibição.
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-4/images/mapa.png" alt="Mapa Interativo">
+      <img src="../assets/projeto-4/images/tela-niveis-indicadores.png" alt="Listagem de Níveis de Indicadores">
     </p>
   </details>
   <details>
-    <summary>Associação de Agentes a Zonas</summary>
+    <summary>📥 Lógica de Atualização do Banco com Dados CSV</summary>
     <br>
-    Implementei a lógica de negócios para associar agentes de mobilidade a zonas específicas, garantindo que cada profissional receba apenas os alertas relevantes para sua área de atuação. Essa funcionalidade otimiza a alocação de recursos e reduz o tempo de resposta a incidentes.
+    Desenvolvi a rotina de importação e atualização do banco de dados a partir de arquivos CSV, processando os dados dos radares e garantindo a integridade e consistência das informações armazenadas.
     <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-4/images/associacao-agentes.png" alt="Associação de Agentes">
-    </p>
   </details>
-</details>
-
-<details>
-  <summary>📊 <b>Dashboards e Visualização de Dados</b></summary>
-  <br>
-  Responsável pelo desenvolvimento dos dashboards interativos que fornecem visibilidade estratégica para gestores e agentes.
-  <br>
-  <br>
   <details>
-    <summary>Dashboard de Indicadores</summary>
+    <summary>🔐 Criação de Níveis de Acesso do Usuário</summary>
     <br>
-    Criei telas com gráficos dinâmicos e tabelas que apresentam os principais indicadores de tráfego, permitindo que gestores identifiquem padrões, acompanhem a evolução dos níveis de severidade e tomem decisões baseadas em dados em tempo real.
+    Atuei na definição e implementação dos diferentes níveis de acesso do sistema (público, agente, gestor e administrador), configurando as permissões e regras de autorização no back-end.
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-4/images/dashboard-indicadores.png" alt="Dashboard de Indicadores">
+      <img src="../assets/projeto-4/images/tela-gerenciar-usuario.png" alt="Níveis de Acesso">
     </p>
   </details>
   <details>
-    <summary>Logs de Alertas e Auditoria</summary>
+    <summary>🗺️ Nível por Zona na Home</summary>
     <br>
-    Implementei a funcionalidade de logs de alertas para registro histórico de todas as ocorrências geradas pelo sistema. Esta funcionalidade permite estudos de comportamento do trânsito, auditoria e análise de eficácia das ações tomadas pelos agentes.
-    <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-4/images/logs.png" alt="Logs de Alertas">
-    </p>
-  </details>
-</details>
-
-<details>
-  <summary>🔐 <b>Controle de Acesso e Segurança</b></summary>
-  <br>
-  Atuei na definição e implementação da estrutura de perfis e permissões do sistema, garantindo que cada tipo de usuário tenha acesso apenas às funcionalidades adequadas.
-  <br>
-  <br>
-  <details>
-    <summary>Gestão de Usuários e Perfis</summary>
-    <br>
-    Implementei o CRUD completo de usuários com diferentes perfis de acesso: público, agente, gestor e administrador. Cada perfil possui visibilidade e permissões específicas sobre as telas, dados e funcionalidades do sistema, garantindo segurança e conformidade com os requisitos do cliente.
+    Implementei a funcionalidade que exibe, na tela inicial, o nível de severidade de cada zona da cidade, permitindo que usuários visualizem rapidamente as condições do trânsito por região.
     <br>
     <br>
     <p align="center">
-      <img src="../assets/projeto-4/images/gestao-usuarios.png" alt="Gestão de Usuários">
-    </p>
-  </details>
-  <details>
-    <summary>Autenticação e Autorização</summary>
-    <br>
-    Configurei o Spring Security para gerenciar a autenticação via JWT (JSON Web Token) e controle de acesso baseado em papéis (RBAC), assegurando que apenas usuários autenticados e autorizados possam acessar recursos sensíveis da API.
-    <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-4/images/autenticacao.png" alt="Autenticação">
+      <img src="../assets/projeto-4/images/tela-nivel-zona.png" alt="Visual do Nível por Zona">
     </p>
   </details>
 </details>
@@ -178,28 +138,38 @@ Atuei como **Product Owner** e **desenvolvedor full-stack** neste projeto, lider
 <details>
   <summary>📚 <b>Documentação e Qualidade</b></summary>
   <br>
-  Fui responsável pela criação e manutenção da documentação técnica e do usuário, garantindo que o sistema fosse utilizável e mantível.
+  Fui responsável pela criação e manutenção da documentação técnica e organizacional do projeto, garantindo que o time tivesse clareza sobre processos, regras de negócio e o funcionamento do sistema.
   <br>
   <br>
   <details>
-    <summary>Documentação da API com Swagger</summary>
+    <summary>📘 Manual do Usuário</summary>
     <br>
-    Implementei a documentação interativa da API utilizando Swagger/OpenAPI, permitindo que outros desenvolvedores e stakeholders compreendam e testem os endpoints de forma autônoma. A documentação inclui descrições detalhadas de cada endpoint, parâmetros, modelos de requisição e resposta.
+    Elaborei o <a href="https://drive.google.com/file/d/1L-FXcJWop9PP2Nl430whKPjNdSdH5czI/view">manual do usuário</a> completo, documentando todas as funcionalidades do sistema para cada perfil de acesso (público, agente, gestor e administrador), facilitando a adoção da plataforma e reduzindo a necessidade de suporte técnico.
     <br>
-    <br>
-    <p align="center">
-      <img src="../assets/projeto-4/images/swagger.png" alt="Documentação Swagger">
-    </p>
   </details>
   <details>
-    <summary>Manuais de Instalação e Usuário</summary>
+    <summary>📐 Regras de Negócio</summary>
     <br>
-    Elaborei manuais completos para instalação do sistema e para uso por cada perfil de usuário (público, agente, gestor e administrador), facilitando a adoção da plataforma e reduzindo a necessidade de suporte técnico.
+    Documentei todas as <a href="https://github.com/DenariusData/API-4SEM/tree/main/docs/business-rules">regras de negócio</a> do sistema, incluindo a lógica de cálculo dos níveis de severidade, os critérios para disparo de alertas e as permissões associadas a cada nível de acesso, garantindo o alinhamento entre o time de desenvolvimento e o cliente.
     <br>
+  </details>
+  <details>
+    <summary>🌿 Processo (Estrutura de Branchs e Padrão de Commits)</summary>
     <br>
-    <p align="center">
-      <img src="../assets/projeto-4/images/manuais.png" alt="Manuais">
-    </p>
+    Defini e documentei a <a href="https://github.com/DenariusData/API-4SEM/tree/main/docs/processo">estratégia de versionamento do projeto</a>, incluindo a estrutura de branchs (main, develop, feature/*, hotfix/*) e o padrão de commits (Conventional Commits), garantindo organização, rastreabilidade e facilitando a colaboração entre os membros da equipe.
+    <br>
+  </details>
+  <details>
+    <summary>📋 Documentação de Sprints</summary>
+    <br>
+    Mantive a <a href="https://github.com/DenariusData/API-4SEM/tree/main/docs/processo/sprints">documentação completa de cada sprint</a>, incluindo planejamento, backlog entregue, retrospectivas e lições aprendidas, assegurando a transparência do progresso do projeto e servindo como registro histórico para consultas futuras.
+    <br>
+  </details>
+  <details>
+    <summary>⚙️ Documentação do Setup</summary>
+    <br>
+    Elaborei a <a href="https://github.com/DenariusData/API-4SEM/tree/main/docs/setup">documentação de setup</a> do ambiente de desenvolvimento, descrevendo os pré-requisitos, dependências e passos necessários para configurar e executar o projeto localmente, facilitando a integração de novos membros ao time.
+    <br>
   </details>
 </details>
 
