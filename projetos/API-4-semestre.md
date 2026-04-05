@@ -190,7 +190,9 @@ O cidadão comum tem acesso a informações de utilidade pública sobre o trâns
 <details>
 <summary>Clique para ver o vídeo do fluxo do usuário público</summary>
 <br>
-![Fluxo publico](https://github.com/augustopiatto/portfolio-fatec/blob/main/assets/projeto-4/videos/Fluxo%20publico.mp4)
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/56c321da-22d0-4e3b-b3cc-d7211d933713" controls width="600"></video>
+</p>
 </details>
 
 ### Para o Agente de Mobilidade
@@ -204,9 +206,10 @@ Os agentes de campo recebem alertas e têm ferramentas para atuar na resolução
 <details>
 <summary>Clique para ver o vídeo do fluxo do agente</summary>
 <br>
-<video src="https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112" controls width="600"></video>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112" controls width="600"></video>
+</p>
 </details>
-![Fluxo agente](https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112)
 
 ### Para o Gestor de Mobilidade
 
@@ -222,7 +225,7 @@ Os gestores possuem visibilidade estratégica e ferramentas de configuração do
 <summary>Clique para ver o vídeo do fluxo do gestor</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-gestor.mp4" alt="Fluxo gestor" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/74f7b4b5-aaad-42b9-8712-4f2c1419ede5" controls width="600"></video>
 </p>
 </details>
 
