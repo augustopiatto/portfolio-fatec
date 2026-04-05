@@ -55,7 +55,7 @@
 
 ## 👨‍💻 Contribuições Individuais
 
-Atuei como desenvolvedor **full-stack** com participação estratégica em todas as fases do projeto. Minhas contribuições iniciaram na concepção da interface e modelagem do banco de dados, evoluindo para o desenvolvimento das funcionalidades front-end e otimizações back-end. Esta visão completa do ecossistema técnico me permitiu entregar soluções coesas e alinhadas com os objetivos do negócio, sempre focando na qualidade do produto final e na eficiência do processo de desenvolvimento.
+Atuei como **desenvolvedor full-stack** com participação estratégica em todas as fases do projeto. Minhas contribuições iniciaram na concepção da interface e modelagem do banco de dados, evoluindo para o desenvolvimento das funcionalidades front-end e otimizações back-end. Esta visão completa do ecossistema técnico me permitiu entregar soluções coesas e alinhadas com os objetivos do negócio, sempre focando na qualidade do produto final e na eficiência do processo de desenvolvimento.
 
 <details>
   <summary>🎨 <b>UX e Planejamento</b></summary>

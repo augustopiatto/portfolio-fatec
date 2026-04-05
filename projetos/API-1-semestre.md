@@ -1,4 +1,4 @@
-PENDENTE: FOTOS E VÍDEOS
+PENDENTE: VÍDEOS DO FUNCIONAMENTO
 
 <h1 align="center">🚀 API 1º Semestre - 01/2024</h1>
 
@@ -49,25 +49,61 @@ PENDENTE: FOTOS E VÍDEOS
 
 ## 👨‍💻 Contribuições Individuais
 
-Atuei no desenvolvimento das funcionalidades da calculadora, participando da implementação das operações matemáticas e da estrutura lógica do sistema. Também contribuí na organização das tarefas e validação das entregas, garantindo que as funcionalidades estivessem corretas e alinhadas com os requisitos do projeto.
+Atuei como **Product Owner** no projeto, sendo responsável pela gestão do backlog, organização do time e documentação do processo. Também contribuí no desenvolvimento de funcionalidades da calculadora.
 
 <details>
-  <summary>🧮 <b>Implementação das operações</b></summary>
-  <br>
-  Desenvolvimento das operações matemáticas básicas (soma, subtração, multiplicação e divisão) e avançadas, como fatorial, função de segundo grau, juros simples e compostos e conversão de base numérica.
-</details>
-
-<details>
-  <summary>🧠 <b>Lógica e validação</b></summary>
-  <br>
-  Estruturação da lógica da aplicação com foco na precisão dos cálculos, além da realização de testes para garantir a confiabilidade dos resultados apresentados ao usuário.
-</details>
-
-<details>
-  <summary>📋 <b>Organização e metodologia</b></summary>
-  <br>
-  Participação na organização do backlog, priorização de tarefas e acompanhamento do desenvolvimento utilizando metodologia ágil, garantindo entregas contínuas ao longo das sprints.
-</details>
+    <summary>🖥️ Setup do Ambiente</summary>
+    <br>
+    Fui responsável pela configuração inicial do ambiente de desenvolvimento, garantindo que todos os membros do time tivessem as ferramentas necessárias instaladas e funcionando corretamente para iniciar o projeto.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-1/images/setup1.png" alt="Setup do Ambiente">
+      <img src="../assets/projeto-1/images/setup2.png" alt="Setup do Ambiente">
+    </p>
+  </details>
+  <details>
+    <summary>👥 Definição de Permanência no Time</summary>
+    <br>
+    Estabeleci critérios e diretrizes para definição da permanência dos membros no time, garantindo o comprometimento e a continuidade das entregas ao longo do projeto.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-1/images/criterios-permanencia.png" alt="Definição de Permanência no Time">
+    </p>
+  </details>
+  <details>
+    <summary>👥 Separação de Grupos ou Duplas para Codar</summary>
+    <br>
+    Organizei a divisão do time em grupos e duplas para desenvolvimento das funcionalidades, equilibrando as competências técnicas e promovendo a colaboração entre os membros.
+    <br>
+  </details>
+  <details>
+    <summary>📄 Documentação na Wiki</summary>
+    <br>
+    Elaborei e mantive a documentação do projeto na wiki do repositório, registrando informações relevantes sobre o funcionamento do sistema, decisões técnicas e orientações para o time.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-1/images/wiki.png" alt="Documentação na Wiki">
+    </p>
+  </details>
+  <details>
+    <summary>⚙️ Setup do VS Code</summary>
+    <br>
+    Configurei o VS Code para padronizar o ambiente de desenvolvimento da equipe, incluindo extensões recomendadas, configurações de formatação e debug, facilitando o trabalho colaborativo.
+    <br>
+    <br>
+    <p align="center">
+      <img src="../assets/projeto-1/images/vs-code.png" alt="Setup do VS Code">
+    </p>
+  </details>
+  <details>
+    <summary>🧮 Contribuição no Desenvolvimento da Calculadora</summary>
+    <br>
+    Atuei como consultor técnico para os desenvolvedores e auxiliei na validação das entregas para garantir o alinhamento com os requisitos.
+    <br>
+  </details>
 
 ---
 

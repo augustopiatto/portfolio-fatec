@@ -1,5 +1,3 @@
-PENDENTE: TEXTO E FOTOS DA CONTRIBUIÇÃO
-
 <h1 align="center">🚀 API 4º Semestre - 02/2025</h1>
 
 <p align="center">
