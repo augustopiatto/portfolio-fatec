@@ -190,9 +190,7 @@ O cidadão comum tem acesso a informações de utilidade pública sobre o trâns
 <details>
 <summary>Clique para ver o vídeo do fluxo do usuário público</summary>
 <br>
-<p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-publico.mp4" alt="Fluxo publico" controls width="600"></video>
-</p>
+![Fluxo publico](https://github.com/augustopiatto/portfolio-fatec/blob/main/assets/projeto-4/videos/Fluxo%20publico.mp4)
 </details>
 
 ### Para o Agente de Mobilidade
@@ -206,9 +204,7 @@ Os agentes de campo recebem alertas e têm ferramentas para atuar na resolução
 <details>
 <summary>Clique para ver o vídeo do fluxo do agente</summary>
 <br>
-<p align="center">
-  <video src="../assets/projeto-4/videos/fluxo-agente.mp4" alt="Fluxo agente" controls width="600"></video>
-</p>
+![Fluxo publicagenteo](https://github.com/user-attachments/assets/a3e5aa20-85c5-41fc-8b62-4cd62ac60112)
 </details>
 
 ### Para o Gestor de Mobilidade
