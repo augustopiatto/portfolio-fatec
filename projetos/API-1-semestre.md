@@ -1,5 +1,3 @@
-PENDENTE: VÍDEOS DO FUNCIONAMENTO
-
 <h1 align="center">🚀 API 1º Semestre - 01/2024</h1>
 
 <p align="center">
