@@ -206,7 +206,7 @@ Essa estrutura garante consistência dos dados e rastreabilidade das relações 
 <summary>Clique para ver o vídeo</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-3/videos/US-3.mp4" alt="US-3" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/e1621ca7-0fd4-4177-9220-c324ee9b3e2e" controls width="600"></video>
 </p>
 </details>
 
@@ -235,7 +235,7 @@ Isso permite que o usuário visualize apenas os dados relevantes para sua análi
 <summary>Clique para ver o vídeo</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-3/videos/US-6.mp4" alt="US-6" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/734dcbff-8080-4af6-a243-241a198b376c" controls width="600"></video>
 </p>
 </details>
 
@@ -256,7 +256,7 @@ Essas visualizações facilitam a tomada de decisão e o acompanhamento operacio
 <summary>Clique para ver o vídeo</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-3/videos/US-8.webm" alt="US-8" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/e37625b3-b589-4552-aa87-f507174fbe69" controls width="600"></video>
 </p>
 </details>
 
