@@ -207,37 +207,37 @@ O professor possui um painel de controle completo para gerenciar todo o processo
 <br>
 <p align="center">
   <h3>Login e Criação de Equipes</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-1.mp4" alt="Fluxo professor 1" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/d558ff4a-a922-4532-a065-e406c3e980de" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Criação de Sprints</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-2.mp4" alt="Fluxo professor 2" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/45ada435-66b7-4a8d-8ba3-f5de34c10a43" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Edição e Exclusão de alunos</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-3.mp4" alt="Fluxo professor 3" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/3dec197b-98f7-4acc-a7aa-81d665991329" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Definir Limite de Pontuação fora da data</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-4.mp4" alt="Fluxo professor 4" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/bd3f45ac-d382-440d-b72d-f73bf5abdc9f" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Definir Limite de Pontuação dentro da data</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-5.mp4" alt="Fluxo professor 5" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/5a79ed17-b3a7-4e23-b1a3-a4574d2c9522" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Criação e Seleção de Critérios</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-6.mp4" alt="Fluxo professor 6" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/6a98d83b-c195-4506-95ed-9d160bf66936" controls width="600"></video>
 </p>
 <br>
 <p align="center">
   <h3>Visualização de Médias e Geração de Relatórios</h3>
-  <video src="../assets/projeto-2/videos/teacher-flow-7.mp4" alt="Fluxo professor 7" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/8f9c6a20-0e4a-438e-8548-0d4fae6d324d" controls width="600"></video>
 </p>
 </details>
 
@@ -253,7 +253,7 @@ O aluno tem uma interface simples e objetiva focada em sua tarefa principal:
 <summary>Clique para ver a demonstração do fluxo do aluno</summary>
 <br>
 <p align="center">
-  <video src="../assets/projeto-2/videos/student-flow.mp4" alt="Fluxo estudante" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/ddc32b25-4115-403d-a0a4-0da176cbb070" controls width="600"></video>
 </p>
 </details>
 
