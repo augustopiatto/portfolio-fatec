@@ -115,7 +115,13 @@ A aplicação funciona através de um menu interativo que permite ao usuário se
 
 O usuário interage com o sistema por meio de um menu, onde pode escolher a operação desejada de forma simples e objetiva.
 
-> 💡 *Sugestão de imagem futura:* print da tela do menu da calculadora
+<details>
+  <summary>Clique para ver a imagem</summary>
+  <br>
+  <p align="center">
+    <img src="../assets/projeto-1/images/menu.png" alt="Modelagem do Banco de Dados">
+  </p>
+</details>
 
 ---
 
@@ -127,7 +133,13 @@ O sistema oferece suporte a diversas operações:
 - 🔢 Fatorial  
 - 📈 Função de segundo grau  
 
-> 💡 *Sugestão de imagem futura:* exemplo de execução de cálculo
+<details>
+  <summary>Clique para ver a imagem</summary>
+  <br>
+  <p align="center">
+    <img src="../assets/projeto-1/images/formula-adicao.png" alt="Modelagem do Banco de Dados">
+  </p>
+</details>
 
 ---
 
@@ -138,7 +150,13 @@ Também foram implementadas funcionalidades voltadas a cálculos financeiros:
 - 💵 Juros simples  
 - 💸 Juros compostos  
 
-> 💡 *Sugestão de imagem futura:* exemplo de cálculo de juros
+<details>
+  <summary>Clique para ver a imagem</summary>
+  <br>
+  <p align="center">
+    <img src="../assets/projeto-1/images/juros-compostos.png" alt="Modelagem do Banco de Dados">
+  </p>
+</details>
 
 ---
 
@@ -148,7 +166,13 @@ Também foram implementadas funcionalidades voltadas a cálculos financeiros:
 - 🔤 Concatenação de strings  
 - 🔁 Conversão do projeto para TypeScript  
 
-> 💡 *Sugestão de imagem futura:* exemplo de conversão ou saída do sistema
+<details>
+  <summary>Clique para ver a imagem</summary>
+  <br>
+  <p align="center">
+    <img src="../assets/projeto-1/images/conversao-base.png" alt="Modelagem do Banco de Dados">
+  </p>
+</details>
 
 ---
 
