@@ -11,7 +11,9 @@ Mudei de área para a programação web em 2020, através do bootcamp oferecido 
 
 Durante os estudos na FATEC aprendi, principalmente, sobre tecnologias voltadas a SQL, Banco de Dados, SGBD e boas práticas de desenvolvimento. Através das aulas, especialmente a Aprendizagem por Projetos Integrados (API), e por estar alocado na área de desenvolvimento web, consegui por em prática os conhecimentos que obtive durante o curso em contextos reais.
 
-No mercado de trabalho, atuei como desenvolvedor full-stack durante dois anos na empresa Buser Brasil, onde pude trabalhar na criação e desenvolvimento de um sistema interno da empresa (staff) para o auxílio de times operacionais (comercial, operação, risco, etc). Após esse período migrei para a área de front-end, ainda atuando com Vue, onde foquei em aprender mais sobre melhoria de performance, responsividade e design, trabalhando na empresa [DigiFarmz](https://www.digifarmz.com/blog) com o seu produto principal, um aplicativo que direciona a tomada de decisões do seu usuário sobre as suas plantações. Hoje estou trabalhando na [OnPoint](https://www.linkedin.com/company/onpointinsurtech/posts/?feedView=all), uma empresa com foco em seguro garantia, com atuação no desenvolvimento de novas funcionalidades da plataforma multi-tenant, no desenvolvimento de correções para a plataforma, enquanto no time de sustentação, e na evolução de versão do Vue 2 para Vue 3.
+No mercado de trabalho, atuei como desenvolvedor full-stack durante dois anos na empresa Buser Brasil, onde pude trabalhar na criação e desenvolvimento de um sistema interno da empresa (staff) para o auxílio de times operacionais (comercial, operação, risco, etc).
+Após esse período migrei para a área de front-end, ainda atuando com Vue, onde foquei em aprender mais sobre melhoria de performance, responsividade e design, trabalhando na empresa [DigiFarmz](https://www.digifarmz.com/blog) com o seu produto principal, um aplicativo que direciona a tomada de decisões do seu usuário sobre as suas plantações.
+Ainda na área de front-end, atuei na [OnPoint](https://www.linkedin.com/company/onpointinsurtech/posts/?feedView=all), uma empresa com foco em seguro garantia, com atuação no desenvolvimento de novas funcionalidades da plataforma multi-tenant, no desenvolvimento de correções para a plataforma, enquanto no time de sustentação, e na evolução de versão do Vue 2 para Vue 3.
 
 <p align="center">
   <img src="assets/foto-perfil.png" alt="Minha Foto" width="200">
@@ -33,7 +35,7 @@ No mercado de trabalho, atuei como desenvolvedor full-stack durante dois anos na
   * Quebra das User Stories da Sprint em Tasks objetivas;
   * Organização e acompanhamento constante do desenvolvimento das tarefas pela equipe;
   * Utilização das ferramentas `Jira`, `Azure Boards`;
-  * Acompanhando de ritos e reuniões de scrum através do cargo de Scrum Master.
+  * Acompanhamento de ritos e reuniões de scrum através do cargo de Scrum Master.
 
 ## 📂 Meus Projetos
 * [1º Semestre: Calculadora Científica](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-1-semestre.md)
