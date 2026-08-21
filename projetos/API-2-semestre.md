@@ -23,7 +23,7 @@
 
 ## ⚠️ Problema
 
-> A falta de uma ferramenta padronizada para a coleta e cálculo das avaliações de soft skills pelos alunos resultava em retrabalho manual para os professores, que precisavam consolidar diferentes formatos de planilhas e calcular as médias individualmente, consumindo um tempo precioso que poderia ser dedicado a outras atividades acadêmicas.
+> A coleta e cálculo das avaliações de soft skills de forma manual realizada pelos alunos resultava em retrabalho manual para os professores, que precisavam consolidar diferentes formatos de planilhas e calcular as médias individualmente, consumindo um tempo precioso que poderia ser dedicado a outras atividades acadêmicas.
 
 ---
 
@@ -344,7 +344,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
 - **2º Semestre:** Projeto Avaliador de Soft Skill
 - [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)  
 - [4º Semestre: Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
-- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
+- [5º Semestre: Projeto de Data Warehouse sobre Dados Operacionais da Empresa Parceira](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
 
 ---
