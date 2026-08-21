@@ -23,7 +23,7 @@
 
 ## ⚠️ Problema
 
-> Necessidade de uma ferramenta que permitisse monitorar atrasos de funcionários de empresas terceirizadas, evitando impactos negativos e prejuízos ao cliente.
+> O cliente não possuía forma de monitorar as entradas e saídas de funcionários de empresas terceirizadas e por conta disso não conseguia tirar métricas ou validar se os funcionários estavam cumprindo carga horária acordada por contrato, e assim identificar impactos negativos e prejuízos ao cliente.
 
 ---
 
@@ -353,7 +353,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
 - [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)  
 - **3º Semestre: Sistema de Ponto e Geração de Relatórios**  
 - [4º Semestre: Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
-- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
+- [5º Semestre: Projeto de Data Warehouse sobre Dados Operacionais da Empresa Parceira](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
 
 ---
