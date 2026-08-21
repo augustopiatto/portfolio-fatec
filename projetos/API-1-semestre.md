@@ -223,23 +223,23 @@ Além disso, tive experiência com metodologia ágil, organização de tarefas e
 <table align="center">
   <tr>
     <th width="270px">Habilidade</th>
-    <th width="280px">Descrição</th>
+    <th width="280px">Casos de uso</th>
   </tr>
   <tr>
     <td>Proatividade</td>
-    <td>Busquei aprender novas ferramentas e conceitos necessários para o desenvolvimento do projeto.</td>
+    <td>Aprendi a utilizar VisualG, Trello e funcionalidades do Github, como a wiki, além de buscar conhecimentos para atuar como PO e servir como amparo técnico do time.</td>
   </tr>
   <tr>
     <td>Aprendizado contínuo</td>
-    <td>Desenvolvi conhecimentos em lógica de programação e metodologia ágil ao longo do projeto.</td>
+    <td>Aprendi como transformar as necessidades do cliente e projeto em funcionalidades claras para o time de desenvolvimento, e como aplicar metodologia ágil ao longo do projeto.</td>
   </tr>
   <tr>
     <td>Comunicação</td>
-    <td>Colaborei com o time no alinhamento das tarefas e entendimento dos requisitos.</td>
+    <td>Ao atuar como PO, conversei com o time sobre alinhamento das tarefas e entendimento dos requisitos, além de trabalhar as expectativas do cliente sobre as entregas.</td>
   </tr>
   <tr>
     <td>Organização</td>
-    <td>Participei da organização das tarefas e estruturação do projeto no GitHub.</td>
+    <td>Juntamente com o Scrum Master, participei da organização das tarefas no kanban e ajudei a montar a estruturação do projeto no GitHub.</td>
   </tr>
 </table>
 
