@@ -23,7 +23,7 @@
 
 ## ⚠️ Problema
 
-> A cidade de São José dos Campos carecia de um sistema integrado que transformasse os dados dos radares em insights acionáveis para a gestão do tráfego urbano. A falta de indicadores específicos para disparo de alertas e a ausência de uma ferramenta para alocação eficiente de agentes de mobilidade resultavam em respostas tardias a incidentes e na alocação inadequada de recursos públicos.
+> A cidade de São José dos Campos não possuía uma forma de transformar os dados dos radares em insights acionáveis para a gestão do tráfego urbano. A falta de indicadores específicos para disparo de alertas e a ausência de uma ferramenta para alocação eficiente de agentes de mobilidade resultavam em respostas tardias a incidentes e na alocação inadequada de recursos públicos.
 
 ---
 
@@ -329,7 +329,7 @@ Este projeto representou um marco importante na minha formação, sendo minha pr
 - [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)
 - [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)
 - **4º Semestre: Monitoramento e Resposta a Incidentes**
-- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
+- [5º Semestre: Projeto de Data Warehouse sobre Dados Operacionais da Empresa Parceira](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)
 
 ---
