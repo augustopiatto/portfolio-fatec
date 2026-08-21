@@ -312,7 +312,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
  <table align="center">
     <tr>
       <th width="270px">Habilidade</th>
-      <th width="280px">Descrição</th>
+      <th width="280px">Casos de uso</th>
     </tr>
     <tr>
       <td>Liderança Técnica</td>
@@ -321,10 +321,6 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
     <tr>
       <td>Tomada de Decisão</td>
       <td>Contribuí nas dailies propondo direcionamentos técnicos e priorização de entregas, considerando limitações de tempo e escopo.</td>
-    </tr>
-    <tr>
-      <td>Senso de Prioridade</td>
-      <td>Avaliei a viabilidade de implementar testes automatizados dentro do prazo disponível, optando por focar na entrega funcional do projeto.</td>
     </tr>
     <tr>
       <td>Gestão de Conflitos</td>
