@@ -21,7 +21,7 @@
 
 ## ⚠️ Problema
 
-> Necessidade de uma ferramenta simples e confiável para realização de cálculos matemáticos e financeiros, garantindo precisão e facilidade de utilização.
+> Dificuldade do cliente em realizar cálculos matemáticos e financeiros de forma precisa e fácil.
 
 ---
 
@@ -251,7 +251,7 @@ Além disso, tive experiência com metodologia ágil, organização de tarefas e
 - [2º Semestre: Projeto Avaliador de Soft Skill](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-2-semestre.md)  
 - [3º Semestre: Sistema de Ponto e Geração de Relatórios](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-3-semestre.md)  
 - [4º Semestre: Monitoramento e Resposta a Incidentes](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-4-semestre.md)  
-- [5º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)  
+- [5º Semestre: Projeto de Data Warehouse sobre Dados Operacionais da Empresa Parceira](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-5-semestre.md)
 - [6º Semestre: TODO](https://github.com/augustopiatto/portfolio-fatec/blob/main/projetos/API-6-semestre.md)  
 
 ---
