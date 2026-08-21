@@ -329,19 +329,19 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
 <table align="center">
   <tr>
     <th width="270px">Habilidade</th>
-    <th width="280px">Descrição</th>
+    <th width="280px">Casos de uso</th>
   </tr>
   <tr>
     <td>Trabalho em equipe</td>
-    <td>Colaboração constante com o time e integração entre front-end e back-end.</td>
+    <td>Colaborei com o time, ajudando os demais desenvolvedores em suas tarefas, e ajudei em partes onde a integração entre front-end e back-end eram necessárias.</td>
   </tr>
   <tr>
     <td>Comunicação</td>
-    <td>Alinhamento contínuo com equipe, PO e stakeholders.</td>
+    <td>Fiz alinhamento contínuo com os membros da equipe durante dailies e reuniões, tirei dúvidas com PO e tentei me aproximar dos stakeholders para ter maior entendimento do projeto.</td>
   </tr>
   <tr>
     <td>Resolução de problemas</td>
-    <td>Atuação na solução de gargalos técnicos e otimizações de performance.</td>
+    <td>Atuei na solução de gargalos técnicos que acabavam atrsando os demais membros e em otimizações de performance.</td>
   </tr>
 </table>
 
