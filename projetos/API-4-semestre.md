@@ -301,7 +301,7 @@ Este projeto representou um marco importante na minha formação, sendo minha pr
 <table align="center">
    <tr>
     <th width="270px">Habilidade</th>
-    <th width="280px">Descrição</th>
+    <th width="280px">Casos de uso</th>
    </tr>
    <tr>
     <td>Liderança e Gestão de Equipe</td>
