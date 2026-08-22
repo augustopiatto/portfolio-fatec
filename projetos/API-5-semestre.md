@@ -49,7 +49,7 @@
 
 - **Vue.js**: Framework web utilizado para construir o frontend interativo, com integração de mapas georreferenciados e dashboards dinâmicos.
 - **Django**: Framework web em Python utilizado no backend para desenvolvimento da API RESTful, com sua arquitetura MVT (Model-View-Template) e ORM integrado, responsável pelo processamento dos dados importados via CSV, tratamento e armazenamento no banco de dados, além de gerenciar as requisições e lógica de negócio da plataforma.
-- **PostgreSQL**: Banco de dados relacional utilizado para armazenar os dados de radares, indicadores, alertas, usuários e logs do sistema.
+- **PostgreSQL**: Banco de dados relacional utilizado para armazenar os dados de programas, projetos e tarefas.
 - **Figma**: Ferramenta de design utilizada para prototipação e validação de interface com o cliente.
 - **Git**: Sistema de controle de versionamento distribuído utilizado para gerenciar o código-fonte do projeto, permitindo o rastreamento de alterações, trabalho em paralelo por meio de branches e colaboração eficiente entre os membros da equipe.
 - **Slack**: Ferramenta de comunicação utilizada para interação contínua com a equipe da SIATT, facilitando o alinhamento de requisitos, esclarecimento de dúvidas sobre regras de negócio, definição de métricas e consolidação de critérios ao longo do desenvolvimento incremental.
