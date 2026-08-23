@@ -105,7 +105,46 @@ Atuei como **Product Owner** e **membro do time de DevOps** neste projeto, lider
 
 ## ⚙️ Funcionamento
 
-A
+A plataforma Lunae foi desenvolvida para atender diferentes níveis de análise dentro da SIATT, organizados em três funcionalidades que contemplam visões operacional, tática e preditiva da gestão de projetos e programas.
+
+### Visão de Projetos
+
+Nesta visão, o usuário tem acesso a uma visão detalhada e operacional de cada projeto individualmente.
+O usuário pode selecionar um projeto específico por meio de um seletor (busca por código/nome) e visualizar:
+
+- **Cards de Resumo do Projeto**: Exibem o Custo Total (soma de horas e materiais) e o Tempo Total (soma de todas as horas apontadas) do projeto selecionado.
+- **Tabela de Materiais do Projeto**: Lista os materiais consumidos no projeto com suas quantidades empenhadas e o custo calculado pela multiplicação da quantidade pelo custo estimado.
+- **Gráficos Burnup**: Apresentam a evolução temporal do acúmulo de horas e de custos ao longo do tempo, com cada linha representando um projeto para comparação de progresso.
+- **Gráfico de Barra - Horas por Funcionário**: Distribui as horas trabalhadas entre os funcionários alocados no projeto, permitindo visualizar a carga de trabalho individual.
+- **Tabela de Funcionários do Projeto**: Relaciona os colaboradores alocados, com suas horas dedicadas ao projeto e a lista de outros projetos em que atuam simultaneamente.
+
+### Visão de Programas
+
+Nesta fase, o usuário obtém uma visão consolidada e comparativa entre os programas institucionais da SIATT.
+O usuário pode selecionar um programa específico por meio de um seletor e visualizar:
+
+- **Cards de Resumo do Programa**: Consolidam os principais indicadores do programa, incluindo Custo Estimado, Custo Real, Horas Estimadas, Horas Reais e Total de Projetos vinculados.
+- **Gráficos Burnup - Programa**: Compara a evolução de horas e custos entre diferentes programas, com cada linha representando um programa distinto.
+- **Tabela de Projetos com Desvio de Hora**: Exibe o desempenho de cada projeto com indicadores de desvio entre horas realizadas e estimadas, sugerindo ações como manter funcionamento, monitorar ou revisar urgentemente conforme o percentual de desvio.
+- **Gráfico de Barra - Horas por Projeto**: Mostra a distribuição de horas trabalhadas entre os projetos do programa selecionado.
+- **Gráfico de Rosca - Status dos Projetos**: Apresenta a distribuição percentual dos projetos por status (Concluído, Planejamento, Em andamento ou Suspenso).
+
+### Visão de planejamento
+
+Nesta fase, o usuário obtém insights preditivos para antecipar necessidades de materiais e otimizar a gestão de estoques e compras.
+O usuário tem acesso a ferramentas de planejamento e alerta para gestão de materiais:
+
+- **Alertas de Materiais**: Identifica e destaca os materiais críticos e aqueles em atenção com base na relação entre dias de cobertura e lead time de cada item.
+- **Previsão de Próxima Compra**: Recomenda a data ideal para novos pedidos e agrupa os materiais necessários por janelas de urgência (comprar agora, em 8-15 dias ou em 16-30 dias).
+- **Tabela de Materiais com Risco de Falta**: Apresenta uma relação detalhada e ordenável de itens com indicadores como estoque atual, pedidos pendentes, consumo diário e status classificado como Urgente, Atenção ou OK.
+- **Gráfico de Dispersão - Lead Time por Fornecedor**: Compara fornecedores para um material específico relacionando lead time e valor total do pedido, com cores por status e destaque para o fornecedor de menor prazo.
+
+### Funcionalidades transversais
+
+A plataforma conta com recursos aplicáveis a todas as visões:
+
+- **Filtros Globais**: Permitem refinar as análises por período, status do projeto, fornecedor e material conforme a necessidade de cada visualização.
+- **Exportação de Dados**: Possibilita o compartilhamento de análises nos formatos CSV, Excel e PDF com outras áreas da SIATT.
 
 ---
 
