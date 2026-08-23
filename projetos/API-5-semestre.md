@@ -118,6 +118,14 @@ O usuário pode selecionar um projeto específico por meio de um seletor (busca 
 - **Gráfico de Barra - Horas por Funcionário**: Distribui as horas trabalhadas entre os funcionários alocados no projeto, permitindo visualizar a carga de trabalho individual.
 - **Tabela de Funcionários do Projeto**: Relaciona os colaboradores alocados, com suas horas dedicadas ao projeto e a lista de outros projetos em que atuam simultaneamente.
 
+<details>
+<summary>Clique para ver o vídeo do fluxo da visão de projetos</summary>
+<br>
+<p align="center">
+  <video src="" controls width="600"></video>
+</p>
+</details>
+
 ### Visão de Programas
 
 Nesta fase, o usuário obtém uma visão consolidada e comparativa entre os programas institucionais da SIATT.
@@ -129,6 +137,14 @@ O usuário pode selecionar um programa específico por meio de um seletor e visu
 - **Gráfico de Barra - Horas por Projeto**: Mostra a distribuição de horas trabalhadas entre os projetos do programa selecionado.
 - **Gráfico de Rosca - Status dos Projetos**: Apresenta a distribuição percentual dos projetos por status (Concluído, Planejamento, Em andamento ou Suspenso).
 
+<details>
+<summary>Clique para ver o vídeo do fluxo da visão de programas</summary>
+<br>
+<p align="center">
+  <video src="" controls width="600"></video>
+</p>
+</details>
+
 ### Visão de planejamento
 
 Nesta fase, o usuário obtém insights preditivos para antecipar necessidades de materiais e otimizar a gestão de estoques e compras.
@@ -138,6 +154,14 @@ O usuário tem acesso a ferramentas de planejamento e alerta para gestão de mat
 - **Previsão de Próxima Compra**: Recomenda a data ideal para novos pedidos e agrupa os materiais necessários por janelas de urgência (comprar agora, em 8-15 dias ou em 16-30 dias).
 - **Tabela de Materiais com Risco de Falta**: Apresenta uma relação detalhada e ordenável de itens com indicadores como estoque atual, pedidos pendentes, consumo diário e status classificado como Urgente, Atenção ou OK.
 - **Gráfico de Dispersão - Lead Time por Fornecedor**: Compara fornecedores para um material específico relacionando lead time e valor total do pedido, com cores por status e destaque para o fornecedor de menor prazo.
+
+<details>
+<summary>Clique para ver o vídeo do fluxo da visão de planejamento</summary>
+<br>
+<p align="center">
+  <video src="" controls width="600"></video>
+</p>
+</details>
 
 ### Funcionalidades transversais
 
@@ -152,36 +176,81 @@ A plataforma conta com recursos aplicáveis a todas as visões:
 
 A
 
- <h3 align="center"> Hard Skills </h3>
-  <table align="center">
+### 🧠 Hard Skills
+
+<table align="center">
     <tr>
       <th width="270px">Tecnologia/Metodologia</th>
       <th width="85px">Nota</th>
       <th width="200px">Classificação</th>
     </tr>
-    <tr>
-      <td>Metodologia Ágil Scrum</td>
-      <td>★★★☆☆</td>
-	<td>Entendi</td>
-    </tr>
-    <tr>
-      <td>Java</td>
-      <td>★★★★☆</td>
-	<td>Sei fazer com ajuda</td>
-    </tr>
-  </table>
+   <tr>
+    <td>Gestão de Produto (Product Owner)</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Vue.js</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Django</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>PostgreSQL</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Figma</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Git</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+   <tr>
+    <td>Swagger</td>
+    <td>★★★★★</td>
+    <td>Sei fazer com autonomia</td>
+   </tr>
+</table>
+
+---
+
+### 🤝 Soft Skills
   
-  <h3 align="center">Soft Skills</h3>
-  <table align="center">
+<table align="center">
     <tr>
       <th width="270px">Habilidade</th>
       <th width="280px">Descrição</th>
     </tr>
     <tr>
-      <td>Liderança Técnica</td>
-      <td>Atuei como referência em desenvolvimento no time, auxiliando nas decisões arquiteturais e orientando colegas com menos experiência em programação.</td>
+      <td>Liderança e Gestão de Equipe</td>
+      <td>Atuei como Product Owner, conduzindo refinamentos e mantendo o time alinhado e motivado durante todo o projeto.</td>
     </tr>
-  </table>
+    <tr>
+      <td>Comunicação com Stakeholders</td>
+      <td>Realizei conversas constantes com o cliente "SIATT" via Slack, para alinhar expectativas, apresentar entregas e gerenciar mudanças de escopo de forma transparente.</td>
+    </tr>
+    <tr>
+      <td>Priorização e Gestão de Escopo</td>
+      <td>Conduzi a priorização das funcionalidades ao longo das três sprints, equilibrando as demandas do parceiro com a capacidade da equipe, removendo tarefas de baixo valor de entrega e adiando ou adiantando entregas para outras sprints.</td>
+    </tr>
+	<tr>
+      <td>Planejamento Estratégico</td>
+      <td>Defini a visão do produto, estabeleci critérios de DoR e DoD, e planejei as sprints considerando riscos, dependências e capacidade da equipe.</td>
+    </tr>
+	<tr>
+      <td>Orientação a Resultados</td>
+      <td>Mantive o foco na entrega de valor tangível para o cliente, assegurando que cada sprint resultasse em funcionalidades prontas para uso e que os dashboards gerassem insights aplicáveis à gestão da SIATT.</td>
+    </tr>
+</table>
 
 ---
 
