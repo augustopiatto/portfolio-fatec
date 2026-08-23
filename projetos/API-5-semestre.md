@@ -174,7 +174,7 @@ A plataforma conta com recursos aplicáveis a todas as visões:
 
 ## 📚 Aprendizados Efetivos
 
-A
+Este projeto foi me permitiu atuar como Product Owner em um ambiente corporativo real, com a parceira SIATT, aprofundando meus conhecimentos em projetos de data warehouse e business intelligence. Aprimorei a habilidade de traduzir as necessidades estratégicas da empresa em funcionalidades concretas, priorizando entregas que gerassem valor real para os gestores em diferentes níveis (operacional, tático e preditivo). Desenvolvi e melhorei habilidades importantes na gestão de escopo, equilibrando as demandas do cliente com a capacidade da equipe e os desafios técnicos relacionados à integração e consistência dos dados.
 
 ### 🧠 Hard Skills
 
