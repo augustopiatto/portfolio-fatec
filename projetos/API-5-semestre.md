@@ -72,21 +72,26 @@ Atuei como **Product Owner** e **membro do time de DevOps** neste projeto, lider
   <details>
     <summary>Definição de Prioridades e Escopo</summary>
     <br>
-    Conduzi reuniões com o cliente (---) para entender as dores e necessidades do negócio, traduzindo-as em user stories com critérios de aceitação claros. Realizei a priorização garantindo que as funcionalidades de maior valor fossem entregues primeiro. Gerenciei mudanças de escopo ao longo do projeto, sempre alinhando com o cliente.
+    Conduzi reuniões com o cliente (SIATT) para entender as dores e necessidades do negócio, traduzindo-as em user stories com critérios de aceitação claros. Realizei a priorização garantindo que as funcionalidades de maior valor fossem entregues primeiro. Gerenciei mudanças de escopo ao longo do projeto, sempre alinhando com o cliente.
     <br>
     <br>
     <p align="center">
-      <img src="" alt="Gestão de Backlog">
+      <img src="../assets/projeto-5/images/backlog-sprint1.jpeg" alt="Gestão de Backlog Sprint 1">
+      <img src="../assets/projeto-5/images/backlog-sprint2.jpeg" alt="Gestão de Backlog Sprint 2">
+      <img src="../assets/projeto-5/images/backlog-sprint3.jpeg" alt="Gestão de Backlog Sprint 3">
     </p>
   </details>
   <details>
     <summary>Definição de DoR e DoD</summary>
     <br>
-    Estabeleci critérios claros de Definition of Ready (DoR) e Definition of Done (DoD) para garantir a qualidade e previsibilidade das entregas. Os critérios incluíam subtarefas definidas, design validado no Figma, modelagem de banco de dados aprovada e documentação completa, assegurando que cada sprint entregasse valor real ao cliente.
+    Estabeleci critérios claros de Definition of Ready (DoR) e Definition of Done (DoD) para o projeto e por card para garantir a qualidade e previsibilidade das entregas. Os critérios incluíam subtarefas definidas, design validado no Figma, modelagem de banco de dados aprovada e documentação completa, assegurando que cada sprint entregasse valor real ao cliente.
     <br>
     <br>
     <p align="center">
-      <img src="" alt="DoR e DoD">
+      <img src="../assets/projeto-5/images/dor-dod.png" alt="DoR e DoD Projeto">
+    </p>
+    <p align="center">
+      <img src="../assets/projeto-5/images/dor-dod-card.png" alt="DoR e DoD Card">
     </p>
   </details>
 </details>
@@ -94,11 +99,55 @@ Atuei como **Product Owner** e **membro do time de DevOps** neste projeto, lider
 <details>
   <summary>📊 <b>Atuação no time de DevOps</b></summary>
   <br>
-  Atuei no desenvolvimento de versionamento e rastreabilidade de histórico do banco de dados do projeto, garantindo que alterações necessárias no banco pudessem ser rastreadas através de "versões" e, caso necessário algum rollback na plataforma, que a versão do banco acompanhasse a versão do código, mantendo o funcionamento estável para o usuário.
+  Atuei no desenvolvimento de versionamento e rastreabilidade de histórico do banco de dados do projeto, garantindo que alterações necessárias no banco pudessem ser rastreadas através de "versões" (a pasta "seeds" da imagem) e, caso necessário algum rollback na plataforma, que a versão do banco acompanhasse a versão do código, mantendo o funcionamento estável para o usuário.
+
   <br>
+
+  [Acesso à documentação do Banco de Dados](https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/12.-DevOps#%EF%B8%8F-database)
+
+  [Acesso ao comandos de DevOps do Banco de Dados](https://github.com/23deFevereiro/API_5_SEM_BACK/tree/main/api/management/commands)
+
   <p align="center">
-    <img src="" alt="DevOps">
+    <img src="../assets/projeto-5/images/devops.png" alt="DevOps">
   </p>
+</details>
+
+<details>
+  <summary>📚 <b>Documentação e Qualidade</b></summary>
+  <br>
+  Fui responsável pela criação e manutenção de parte da documentação técnica e organizacional do projeto, garantindo que o time tivesse clareza sobre processos, regras de negócio e o funcionamento do sistema.
+  <br>
+  <br>
+  <details>
+    <summary>📐 Regras de Negócio</summary>
+    <br>
+    Documentei todas as <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/3.-Documenta%C3%A7%C3%A3o-de-Produto">regras de negócio</a> do sistema, incluindo as principais funcionalidades do sistema e a lógica de cálculos utilizados, garantindo o alinhamento entre o time de desenvolvimento e o cliente.
+    <br>
+  </details>
+  <details>
+    <summary>🌿 Processo (Estrutura de Branchs e Padrão de Commits)</summary>
+    <br>
+    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-estrat%C3%A9gia-de-branch">estratégia de versionamento do projeto</a>, incluindo a estrutura de branchs (main, develop, feature/*, hotfix/*) e o padrão de commits (Conventional Commits), garantindo organização, rastreabilidade e facilitando a colaboração entre os membros da equipe.
+    <br>
+  </details>
+  <details>
+    <summary>🧪 Testes</summary>
+    <br>
+    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-testes">estratégia de testes do projeto</a>, definindo um padrão sobre os testes do time (testes que não englobam o escopo de DevOps), com exemplos e documentação.
+    <br>
+  </details>
+  <details>
+    <summary>👀 Code Review</summary>
+    <br>
+    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-code-review">estratégia de revisão de código do projeto</a>, definindo as melhores práticas para se avaliar com qualidade o desenvolvimento de código do projeto.
+    <br>
+  </details>
+  <details>
+    <summary>📋 Documentação de Sprints</summary>
+    <br>
+    Mantive a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/4.-Documenta%C3%A7%C3%A3o-das-Sprints">documentação parcial de cada sprint</a>, incluindo desafio enfrentado, backlog entregue e associação aos cards, servindo como registro histórico para consultas futuras.
+    <br>
+  </details>
 </details>
 
 ---
