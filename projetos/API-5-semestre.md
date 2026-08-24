@@ -171,7 +171,7 @@ O usuário pode selecionar um projeto específico por meio de um seletor (busca 
 <summary>Clique para ver o vídeo do fluxo da visão de projetos</summary>
 <br>
 <p align="center">
-  <video src="" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/a7755c12-d2ad-47c1-81fe-a5fd6bccc2a1" controls width="600"></video>
 </p>
 </details>
 
@@ -190,7 +190,7 @@ O usuário pode selecionar um programa específico por meio de um seletor e visu
 <summary>Clique para ver o vídeo do fluxo da visão de programas</summary>
 <br>
 <p align="center">
-  <video src="" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/54bb8e65-2512-48a9-a115-c5a8946b24d3" controls width="600"></video>
 </p>
 </details>
 
@@ -208,7 +208,7 @@ O usuário tem acesso a ferramentas de planejamento e alerta para gestão de mat
 <summary>Clique para ver o vídeo do fluxo da visão de planejamento</summary>
 <br>
 <p align="center">
-  <video src="" controls width="600"></video>
+  <video src="https://github.com/user-attachments/assets/abe28f39-0557-4827-81e7-ea150febd2bb" controls width="600"></video>
 </p>
 </details>
 
