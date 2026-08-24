@@ -102,6 +102,7 @@ Atuei como **Product Owner** e **membro do time de DevOps** neste projeto, lider
   Atuei no desenvolvimento de versionamento e rastreabilidade de histórico do banco de dados do projeto, garantindo que alterações necessárias no banco pudessem ser rastreadas através de "versões" (a pasta "seeds" da imagem) e, caso necessário algum rollback na plataforma, que a versão do banco acompanhasse a versão do código, mantendo o funcionamento estável para o usuário.
 
   <br>
+  <br>
 
   [Acesso à documentação do Banco de Dados](https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/12.-DevOps#%EF%B8%8F-database)
 
@@ -133,13 +134,13 @@ Atuei como **Product Owner** e **membro do time de DevOps** neste projeto, lider
   <details>
     <summary>🧪 Testes</summary>
     <br>
-    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-testes">estratégia de testes do projeto</a>, definindo um padrão sobre os testes do time (testes que não englobam o escopo de DevOps), com exemplos e documentação.
+    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-testes">estratégia de testes do projeto</a>, estabelecendo um padrão sobre os testes do time (testes que não englobam o escopo de DevOps), com exemplos e documentação.
     <br>
   </details>
   <details>
     <summary>👀 Code Review</summary>
     <br>
-    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-code-review">estratégia de revisão de código do projeto</a>, definindo as melhores práticas para se avaliar com qualidade o desenvolvimento de código do projeto.
+    Defini e documentei a <a href="https://github.com/23deFevereiro/FATEC-API-5-Semestre/wiki/2.-Padr%C3%B5es-de-Desenvolvimento#-code-review">estratégia de revisão de código do projeto</a>, estabelecendo as melhores práticas para se avaliar com qualidade o desenvolvimento de código do projeto.
     <br>
   </details>
   <details>
