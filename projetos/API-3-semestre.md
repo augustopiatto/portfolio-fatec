@@ -341,7 +341,7 @@ Também desenvolvi uma visão mais sólida de arquitetura e boas práticas, util
   </tr>
   <tr>
     <td>Resolução de problemas</td>
-    <td>Atuei na solução de gargalos técnicos que acabavam atrsando os demais membros e em otimizações de performance.</td>
+    <td>Atuei na solução de gargalos técnicos que acabavam atrasando os demais membros e em otimizações de performance.</td>
   </tr>
 </table>
 
