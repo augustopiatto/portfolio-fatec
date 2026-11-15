@@ -52,7 +52,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 - **Vue 3 (JavaScript)**: Framework web utilizado para construir o frontend da plataforma, com foco na interatividade das telas de pesquisa, listagens e visualização de documentos.
@@ -66,7 +65,6 @@
 - **Figma**: Ferramenta de design utilizada para prototipação e validação da interface com o cliente.
 - **Git**: Sistema de controle de versionamento distribuído utilizado para gerenciar o código-fonte do projeto, permitindo rastreamento de alterações, trabalho em paralelo por meio de branches e colaboração eficiente entre os membros da equipe.
 - **GitHub**: Plataforma de hospedagem de repositórios Git utilizada para armazenar o código-fonte do projeto, gerenciar issues, pull requests e revisões de código, além de possibilitar o acompanhamento do progresso da equipe.
-- **Swagger**: Documentação interativa da API, facilitando o entendimento e teste dos endpoints.
 
 ---
 
@@ -202,11 +200,6 @@ A atuação no projeto **Índice** tem proporcionado experiência prática em um
    </tr>
    <tr>
     <td>Docker</td>
-    <td>★★★★☆</td>
-    <td>Sei fazer com ajuda</td>
-   </tr>
-   <tr>
-    <td>Swagger</td>
     <td>★★★★☆</td>
     <td>Sei fazer com ajuda</td>
    </tr>
