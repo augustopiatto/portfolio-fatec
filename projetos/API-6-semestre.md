@@ -70,12 +70,42 @@
 
 ## 👨‍💻 Contribuições Individuais
 
-Atuo como **desenvolvedor full-stack** neste projeto, contribuindo tanto no frontend quanto no backend, além de realizar **code review** constante das entregas do time. Minha atuação tem sido fundamental para garantir a qualidade do código, a consistência visual da plataforma e a segurança no acesso aos documentos.
+Atuei como **desenvolvedor full-stack** neste projeto, contribuindo tanto no frontend quanto no backend, além de realizar **code review** constante das entregas do time. Minha atuação foi fundamental para garantir a qualidade do código, a consistência visual da plataforma e a segurança no acesso aos documentos.
 
 <details>
-  <summary>📄 <b>Visualização de Documentos</b></summary>
+  <summary>🔐 <b>Permissionamento de Documentos</b></summary>
   <br>
-  Implementei a funcionalidade de visualização de detalhes do documento, permitindo a exibição de arquivos nos formatos PDF, DOCX e JPEG diretamente na plataforma. A visualização só é exibida caso o usuário tenha permissão de acesso ao documento, garantindo a segurança da informação.
+  Atuei na implementação do permissionamento dos documentos, contemplando os níveis <b>público</b>, <b>confidencial</b> e <b>sigiloso</b>, garantindo que cada usuário visualize apenas os documentos aos quais tem direito de acesso.
+</details>
+
+<details>
+  <summary>📄 <b>Visualização e Detalhes do Documento</b></summary>
+  <br>
+  Implementei a tela de detalhes do documento e a funcionalidade de visualização de arquivos nos formatos PDF, DOCX e JPEG diretamente na plataforma, condicionada à permissão de acesso do usuário.
+</details>
+
+<details>
+  <summary>🔒 <b>Segurança da Informação</b></summary>
+  <br>
+  Implementei logs de segurança para registrar tentativas de cópia, impressão e outras ações indevidas sobre os documentos. Também realizei a anonimização do usuário no momento da deleção da conta, preservando a privacidade dos dados.
+</details>
+
+<details>
+  <summary>🔍 <b>Busca e Resultados</b></summary>
+  <br>
+  Montei a tela inicial de busca (filtragem simples) e o front do sumário da tela de resultados. Também criei o endpoint de filtros e melhorei a lógica do resumo gerado por IA sobre os resultados e termos pesquisados.
+</details>
+
+<details>
+  <summary>⭐ <b>Funcionalidades do Usuário</b></summary>
+  <br>
+  Desenvolvi o front das notificações, da solicitação de acesso a documentos, da tela de favoritos e da tela de perfil do usuário.
+</details>
+
+<details>
+  <summary>🔧 <b>Ajustes Técnicos e Infraestrutura</b></summary>
+  <br>
+  Realizei ajustes de chamadas duplicadas, correção de padrões incorretos de endpoints, implementação de endpoints faltantes e correção de rotas do frontend. Também ampliei as informações da seed que popula o banco vazio do projeto, facilitando os testes e a validação da aplicação.
 </details>
 
 <details>
@@ -85,21 +115,9 @@ Atuo como **desenvolvedor full-stack** neste projeto, contribuindo tanto no fron
 </details>
 
 <details>
-  <summary>🔍 <b>Tela de Filtragem Simples</b></summary>
-  <br>
-  Montei a tela inicial de filtragem simples, com campo de pesquisa textual e filtros pré-determinados, sendo o ponto de entrada do usuário para a busca de documentos.
-</details>
-
-<details>
   <summary>🔀 <b>Code Review</b></summary>
   <br>
-  Atuo constantemente na revisão de código do time, garantindo qualidade, padronização e boas práticas de desenvolvimento.
-</details>
-
-<details>
-  <summary>🚧 <b>Contribuições Futuras (TODO)</b></summary>
-  <br>
-  Como o projeto ainda está em andamento, novas contribuições estão previstas, com destaque para a atuação na parte de **permissionamento** de usuários e documentos.
+  Atuei constantemente na revisão de código do time, garantindo qualidade, padronização e boas práticas de desenvolvimento.
 </details>
 
 ---
