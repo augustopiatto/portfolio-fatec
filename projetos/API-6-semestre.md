@@ -106,33 +106,89 @@ Atuo como **desenvolvedor full-stack** neste projeto, contribuindo tanto no fron
 
 ## ⚙️ Funcionamento
 
-> ⚠️ *O projeto ainda está em desenvolvimento. As descrições abaixo refletem o que foi planejado pelo time. Imagens e vídeos serão adicionados futuramente, pois muitas telas ainda sofrerão alterações.*
+A plataforma **Índice** possui **três níveis de acesso**, que definem o que cada usuário pode visualizar e executar:
 
-### Tela Inicial e Pesquisa
+- **Admin**: responsável pela administração geral da plataforma;
+- **Gestor**: responsável pela gestão dos documentos e colaboradores da sua área;
+- **Autor**: responsável pelo upload e gerenciamento dos documentos que produz.
 
-A tela inicial conta com um campo de pesquisa aberto e filtros simples. Abaixo do campo de busca, é exibido o histórico das últimas mudanças realizadas pelo usuário logado no sistema — geralmente relacionadas ao upload de documentos.
+Abaixo estão descritas as telas e fluxos da plataforma, indicando quais perfis têm acesso a cada um.
 
-### Fluxo de Upload de Documentos
+### Tela de Início (Pesquisa Simples)
 
-O upload de documentos é realizado em **três passos**:
+Acessível a **gestor** e **autor**. Permite realizar filtros por data, área, tipo de documento e termo de busca. Para o perfil **autor**, a tela também exibe atalhos para o fluxo de upload de arquivos e para a listagem de documentos.
 
-1. **Passo 1**: Upload de um ou mais documentos;
-2. **Passo 2**: Preenchimento das informações a respeito dos documentos;
-3. **Passo 3**: Revisão das informações para conferência antes da conclusão.
+### Fluxo de Upload
 
-### Listagens de Documentos
+Acessível ao **autor**. O usuário adiciona documentos nos formatos **PDF, DOCX, JPEG ou PNG**. A IA faz uma sugestão de disciplina, tipo de documento e áreas relacionadas ao arquivo, e o usuário deve preencher:
 
-- **Tela de listagem de documentos do usuário**: exibe todos os documentos que o próprio usuário fez upload;
-- **Tela de listagem de documentos do sistema**: exibe todos os documentos disponíveis no sistema.
+- Projeto associado;
+- Título;
+- Descrição;
+- Confidencialidade do documento (**público**, **confidencial** ou **sigiloso**).
 
-### Detalhes e Permissões
+Para documentos **confidenciais**, é possível relacionar **grupos de acesso** que poderão visualizá-lo. Para documentos **sigilosos**, devem ser selecionados **usuários específicos** da base para permitir a visualização. Por fim, o usuário pode modificar as sugestões feitas pela IA.
 
-Ao tentar acessar o detalhe de um documento (em qualquer uma das telas de listagem), a visualização só é exibida caso o usuário tenha permissão de acesso. Caso tenha, ele pode visualizar as imagens e também clicar no botão **"Nova Revisão"**, onde poderá anexar novos documentos para gerar uma nova revisão daquele documento.
+### Tela de Resultados
 
-### Telas Administrativas
+Acessível a **gestor** e **autor**. Possui filtros avançados por tipo de documento, área, disciplina, status, data de emissão e termo de busca. Quando há uso de termo de busca, a tela exibe um **resumo gerado por IA** sobre os resultados e os termos pesquisados. Os resultados exibidos variam conforme o nível de acesso do usuário logado (documentos públicos, confidenciais ou sigilosos). Nesta tela, o usuário pode:
 
-- **Tela de controle de permissões**: acessível apenas por usuários com permissão adequada, permite permitir ou negar a visualização de um usuário a um documento que foi previamente solicitado;
-- **Tela de controle de usuários**: permite controlar a área do usuário, bem como ativar ou inativar usuários.
+- **Favoritar** documentos (que passam a aparecer na tela de favoritos);
+- **Solicitar uma nova revisão** do documento.
+
+### Tela de Detalhes do Documento
+
+Acessível a **gestor** e **autor**. Permite visualizar os detalhes do documento, sua imagem e documentos relacionados (por projeto, disciplina ou área). A tela exibe o **histórico de versões** do documento e permite solicitar uma nova revisão. Por se tratar de dados sensíveis, a tela **impede** que o usuário tire print, faça download ou compartilhe o documento. Dependendo do grupo de acesso ou da área do usuário, ele pode estar restrito de visualizar os detalhes e, nesse caso, pode **solicitar acesso ao gestor**, que verá o pedido na tela de revisões.
+
+### Tela de Favoritos
+
+Acessível a **gestor** e **autor**. Exibe os documentos que foram favoritados pelo usuário na tela de resultados.
+
+### Tela de Documentos
+
+Acessível ao **autor**. Exibe os documentos que foram enviados (upload) pelo próprio usuário.
+
+### Notificações
+
+Acessível a **gestor** e **autor**. Localizada na barra de navegação, exibe notificações relacionadas às atualizações dos documentos aos quais o usuário tem acesso, como novas revisões, acessos e aprovações. Ao clicar em uma notificação, o usuário é levado ao respectivo documento.
+
+### Tela de Perfil
+
+Acessível a **gestor** e **autor**. Exibe as informações do usuário logado e permite:
+
+- Alterar nome, sobrenome e e-mail;
+- Solicitar a exclusão da conta;
+- Consultar o histórico de termos de adesão.
+
+### Tela de Revisões
+
+Acessível ao **gestor**. Possui **três abas**:
+
+1. **Revisões técnicas pendentes**: exibe os documentos da área sob responsabilidade do gestor que estão aguardando aprovação da mudança de arquivo;
+2. **Pedidos de acesso a documentos restritos**: exibe os documentos da área sob responsabilidade do gestor que estão aguardando acesso por parte de um usuário autor;
+3. **Histórico**: exibe o histórico de alterações realizadas nas outras duas abas.
+
+### Tela de Colaboradores
+
+Acessível ao **gestor**. Exibe os autores pertencentes à sua área e permite realizar edições nesses autores.
+
+### 🎬 Demonstração dos Fluxos
+
+<details>
+<summary>Clique para ver o vídeo do fluxo da visão de autor</summary>
+<br>
+<p align="center">
+  <video src="" controls width="600"></video>
+</p>
+</details>
+
+<details>
+<summary>Clique para ver o vídeo do fluxo da visão de gestor</summary>
+<br>
+<p align="center">
+  <video src="" controls width="600"></video>
+</p>
+</details>
 
 ---
 
